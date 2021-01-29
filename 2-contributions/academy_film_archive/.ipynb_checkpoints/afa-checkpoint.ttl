@@ -1,0 +1,232 @@
+@prefix ns1: <http://wikibas.se/ontology#> .
+@prefix ns2: <https://www.fiafnet.org/ontology/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W061911> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/6c5a4e54-e221-4686-84b0-a3869d94608b>,
+        <https://https://www.oscars.org/film-archive/resource/claim/d908249a-b399-452f-9efc-d6ffe8a06ae7>,
+        <https://https://www.oscars.org/film-archive/resource/claim/f0ae3212-492c-4819-8816-fc3e9e2e4999> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W062017> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/2082803a-9482-40dd-a8e5-f59ec1292142>,
+        <https://https://www.oscars.org/film-archive/resource/claim/78e16349-4ec6-434a-9d1f-80f76105975f>,
+        <https://https://www.oscars.org/film-archive/resource/claim/c19631dd-cd7c-4bc4-9575-1d1b57282b43> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W068878> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/63618e23-89c6-4d20-9c78-140dcd721d02>,
+        <https://https://www.oscars.org/film-archive/resource/claim/63fc9cf9-5398-4bbd-8f8c-28c4fca819d8>,
+        <https://https://www.oscars.org/film-archive/resource/claim/e5903143-ea42-4910-aa36-c14881ff27f6> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W068911> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/213831e1-bd3c-4ce5-97d7-8c708311fcf6>,
+        <https://https://www.oscars.org/film-archive/resource/claim/ac79609d-8138-46fa-9e59-620c49ddea49>,
+        <https://https://www.oscars.org/film-archive/resource/claim/dcd30abf-eee9-48a2-be9c-e06cfa566716> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W074412> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/5a246815-442f-49d5-bd08-04d171c8f852>,
+        <https://https://www.oscars.org/film-archive/resource/claim/74653097-8b9a-4f8d-909c-2d1364eb692b>,
+        <https://https://www.oscars.org/film-archive/resource/claim/7c027360-e4a9-4d7c-ad16-e381b69b92d3> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W079529> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/4a2521b1-341c-45eb-bee7-699a2ebf00a0>,
+        <https://https://www.oscars.org/film-archive/resource/claim/6e44d014-e26c-4a2e-9d9a-26879950af58>,
+        <https://https://www.oscars.org/film-archive/resource/claim/eebe1cc5-e7ec-46d2-bbfc-f28c70fb1a46> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W081960> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/487560fd-b40b-4cb0-9cea-e76c1682a6a4>,
+        <https://https://www.oscars.org/film-archive/resource/claim/61875e2a-4973-4f3a-8b27-f462715101b4>,
+        <https://https://www.oscars.org/film-archive/resource/claim/c51b9ef5-83f7-4535-8fb1-1ee76b369748> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W093767> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/0b94d6ae-30bd-4545-81cd-126a273d37b8>,
+        <https://https://www.oscars.org/film-archive/resource/claim/a9faf5f0-02c8-4239-9cd3-7738dbd0d052>,
+        <https://https://www.oscars.org/film-archive/resource/claim/ffc1c6b9-caf4-4a8e-b59a-506fcab9a050> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W094098> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/39892a92-822c-41b7-b364-cb794546de87>,
+        <https://https://www.oscars.org/film-archive/resource/claim/ef4aece0-eb5c-4f45-80f2-ba01969d3d90>,
+        <https://https://www.oscars.org/film-archive/resource/claim/f8597a45-3d0c-41a2-91d3-992a91d48d7d> .
+
+<https://https://www.oscars.org/film-archive/resource/work/W1253260> ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/4f400ef8-10d0-43e0-b651-1ca6eb457462>,
+        <https://https://www.oscars.org/film-archive/resource/claim/7e4a4e10-ee79-4195-bb61-e9f1caf33dc7>,
+        <https://https://www.oscars.org/film-archive/resource/claim/e79974fe-0736-41d0-b432-a5864500cf77> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/0b94d6ae-30bd-4545-81cd-126a273d37b8> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/2082803a-9482-40dd-a8e5-f59ec1292142> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/522a8304-381f-4901-9929-9fe647b7ea2b> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/4fa7a050-f4cd-4f8a-b7b7-16aa93692c6d> ;
+    ns2:external_id "W062017" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/213831e1-bd3c-4ce5-97d7-8c708311fcf6> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/39892a92-822c-41b7-b364-cb794546de87> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/80b8ae70-bdfb-409b-9e96-c26c34fe6add> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/91fc21ca-eea1-4064-b178-1c2bebc61de4> ;
+    ns2:title "CITY GIRL" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/487560fd-b40b-4cb0-9cea-e76c1682a6a4> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/4a2521b1-341c-45eb-bee7-699a2ebf00a0> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/d350bcdc-56f6-4590-a80e-e50a1089667f> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/5932ec46-2752-40a8-9337-12f494b3f1e9> ;
+    ns2:external_id "W079529" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/4f400ef8-10d0-43e0-b651-1ca6eb457462> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/5a246815-442f-49d5-bd08-04d171c8f852> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/d96c9a3b-1a81-45c9-b30a-051eca420e1d> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/4692c497-665f-426e-841b-6a4c706f5e1e> ;
+    ns2:title "DER BRENNENDE ACKER" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/61875e2a-4973-4f3a-8b27-f462715101b4> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/6740b8a0-efcd-433e-8873-fdb9a193cab3> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/92d4dc87-b087-4e80-beed-508ffd4584f9> ;
+    ns2:external_id "W081960" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/63618e23-89c6-4d20-9c78-140dcd721d02> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/63fc9cf9-5398-4bbd-8f8c-28c4fca819d8> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/04ba32d1-40cb-4c1e-8486-3df382dc2fdf> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/9571ab20-6953-4173-b0aa-d05a53317492> ;
+    ns2:external_id "W068878" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/6c5a4e54-e221-4686-84b0-a3869d94608b> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/5a42e7b4-f570-484c-b0c2-c425206a648a> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/8cd0b5f6-8cd1-4dde-a253-d84427b80814> ;
+    ns2:title "SUNRISE" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/6e44d014-e26c-4a2e-9d9a-26879950af58> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/459cbcb4-78c5-4862-854f-ffa3b60bafae> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/c7243a7d-3b26-4613-bcd6-7a99ca04919c> ;
+    ns2:title "FAUST: EINE DEUTSCHE VOLKSSAGE" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/74653097-8b9a-4f8d-909c-2d1364eb692b> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/75ffeb8e-6c7f-4edb-9e0a-e3afe1538722> ns2:instance_of <https://www.fiafnet.org/ontology/item/holding_institution> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/78e16349-4ec6-434a-9d1f-80f76105975f> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/7c027360-e4a9-4d7c-ad16-e381b69b92d3> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/663c95c4-bf9e-44ab-a431-8789960c6d98> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/c0560a00-a231-459f-b491-45d645fb0385> ;
+    ns2:external_id "W074412" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/7e4a4e10-ee79-4195-bb61-e9f1caf33dc7> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/031aee24-b1b1-43fa-82b2-8ac60c374887> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/9ac93fa8-f373-40de-a8a7-56631e26851f> ;
+    ns2:title "TARTÃFF" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/a3123952-c504-496e-9698-da8e7c84b6e9> ns2:located_in <https://www.fiafnet.org/ontology/item/usa> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/a9faf5f0-02c8-4239-9cd3-7738dbd0d052> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/3e86c220-4b59-4922-b1a3-eccc6bfd66fa> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/6820e229-8db3-48bb-8169-12bc4d41f801> ;
+    ns2:external_id "W093767" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/ac79609d-8138-46fa-9e59-620c49ddea49> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/96a39522-c851-4004-af0e-6a92990227ff> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/31120d40-9b98-4296-ac2e-5f30d1050c39> ;
+    ns2:title "TABU" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/c19631dd-cd7c-4bc4-9575-1d1b57282b43> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/864e179e-3f17-4142-a50d-48c08a08ebd6> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/ec0fbc37-8ad3-44d9-a5ad-ddfd40e454dd> ;
+    ns2:title "NOSFERATU, EINE SYMPHONIE DES GRAUENS" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/c51b9ef5-83f7-4535-8fb1-1ee76b369748> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/8bf9ac2b-895f-4166-bde8-ddc22f87a958> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/27aa1c42-95b6-4bdc-950c-e1f3a3c37604> ;
+    ns2:title "FOUR DEVILS" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/d908249a-b399-452f-9efc-d6ffe8a06ae7> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/dcd30abf-eee9-48a2-be9c-e06cfa566716> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/90a60d28-ba2b-446b-84c8-494b6a64f132> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/18952da5-cf52-4c8b-b6f2-70920d9a6d6a> ;
+    ns2:external_id "W068911" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/e5903143-ea42-4910-aa36-c14881ff27f6> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/8d683856-a717-41c2-b70b-bde0cd24a906> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/1c0ada64-48d3-4c09-aae2-0f59060c689a> ;
+    ns2:title "DER LETZTE MANN" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/e79974fe-0736-41d0-b432-a5864500cf77> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/e5ba7e7e-d24f-49d4-8dbf-26609d32e81d> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/f5809b7f-44b4-4615-acc5-beb1ff42a31c> ;
+    ns2:external_id "W1253260" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/eebe1cc5-e7ec-46d2-bbfc-f28c70fb1a46> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/ef4aece0-eb5c-4f45-80f2-ba01969d3d90> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/622b4b40-8723-4cbc-a761-cea29abc428a> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/f02eff9b-2c10-4433-adaa-2ac9b2a91724> ;
+    ns2:external_id "W094098" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/f0ae3212-492c-4819-8816-fc3e9e2e4999> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/d2628560-6344-434a-a6bf-f7b7d4829888> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/adf55162-1537-4e27-b345-41abf081a9ac> ;
+    ns2:external_id "W061911" .
+
+<https://https://www.oscars.org/film-archive/resource/claim/f8597a45-3d0c-41a2-91d3-992a91d48d7d> ns2:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://https://www.oscars.org/film-archive/resource/claim/ffc1c6b9-caf4-4a8e-b59a-506fcab9a050> ns1:qualifier <https://https://www.oscars.org/film-archive/resource/qualifier/d173f682-c676-4519-94ad-5e81dbc487aa> ;
+    ns1:reference <https://https://www.oscars.org/film-archive/resource/reference/0e6a772c-60d5-49ab-9b26-f48de4a42050> ;
+    ns2:title "SCHLOÃ VOGELOED: DIE ENTHÃLLUNG EINES GEHEIMNISSES" .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/031aee24-b1b1-43fa-82b2-8ac60c374887> ns2:title_type <https://www.fiafnet.org/ontology/item/original_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/04ba32d1-40cb-4c1e-8486-3df382dc2fdf> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/3e86c220-4b59-4922-b1a3-eccc6bfd66fa> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/459cbcb4-78c5-4862-854f-ffa3b60bafae> ns2:title_type <https://www.fiafnet.org/ontology/item/original_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/522a8304-381f-4901-9929-9fe647b7ea2b> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/5a42e7b4-f570-484c-b0c2-c425206a648a> ns2:title_type <https://www.fiafnet.org/ontology/item/work_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/622b4b40-8723-4cbc-a761-cea29abc428a> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/663c95c4-bf9e-44ab-a431-8789960c6d98> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/6740b8a0-efcd-433e-8873-fdb9a193cab3> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/80b8ae70-bdfb-409b-9e96-c26c34fe6add> ns2:title_type <https://www.fiafnet.org/ontology/item/work_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/864e179e-3f17-4142-a50d-48c08a08ebd6> ns2:title_type <https://www.fiafnet.org/ontology/item/original_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/8bf9ac2b-895f-4166-bde8-ddc22f87a958> ns2:title_type <https://www.fiafnet.org/ontology/item/work_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/8d683856-a717-41c2-b70b-bde0cd24a906> ns2:title_type <https://www.fiafnet.org/ontology/item/original_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/90a60d28-ba2b-446b-84c8-494b6a64f132> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/96a39522-c851-4004-af0e-6a92990227ff> ns2:title_type <https://www.fiafnet.org/ontology/item/work_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/d173f682-c676-4519-94ad-5e81dbc487aa> ns2:title_type <https://www.fiafnet.org/ontology/item/work_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/d2628560-6344-434a-a6bf-f7b7d4829888> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/d350bcdc-56f6-4590-a80e-e50a1089667f> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/d96c9a3b-1a81-45c9-b30a-051eca420e1d> ns2:title_type <https://www.fiafnet.org/ontology/item/work_title> .
+
+<https://https://www.oscars.org/film-archive/resource/qualifier/e5ba7e7e-d24f-49d4-8dbf-26609d32e81d> ns2:institution <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/0e6a772c-60d5-49ab-9b26-f48de4a42050> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/18952da5-cf52-4c8b-b6f2-70920d9a6d6a> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/1c0ada64-48d3-4c09-aae2-0f59060c689a> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/27aa1c42-95b6-4bdc-950c-e1f3a3c37604> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/31120d40-9b98-4296-ac2e-5f30d1050c39> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/4692c497-665f-426e-841b-6a4c706f5e1e> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/4fa7a050-f4cd-4f8a-b7b7-16aa93692c6d> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/5932ec46-2752-40a8-9337-12f494b3f1e9> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/6820e229-8db3-48bb-8169-12bc4d41f801> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/8cd0b5f6-8cd1-4dde-a253-d84427b80814> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/91fc21ca-eea1-4064-b178-1c2bebc61de4> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/92d4dc87-b087-4e80-beed-508ffd4584f9> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/9571ab20-6953-4173-b0aa-d05a53317492> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/9ac93fa8-f373-40de-a8a7-56631e26851f> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/adf55162-1537-4e27-b345-41abf081a9ac> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/c0560a00-a231-459f-b491-45d645fb0385> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/c7243a7d-3b26-4613-bcd6-7a99ca04919c> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/ec0fbc37-8ad3-44d9-a5ad-ddfd40e454dd> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/f02eff9b-2c10-4433-adaa-2ac9b2a91724> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/resource/reference/f5809b7f-44b4-4615-acc5-beb1ff42a31c> ns2:contributed_by <https://https://www.oscars.org/film-archive/ontology/item/afa> .
+
+<https://https://www.oscars.org/film-archive/ontology/item/afa> rdfs:label "Academy Film Archive"@en ;
+    ns1:claim <https://https://www.oscars.org/film-archive/resource/claim/75ffeb8e-6c7f-4edb-9e0a-e3afe1538722>,
+        <https://https://www.oscars.org/film-archive/resource/claim/a3123952-c504-496e-9698-da8e7c84b6e9> .
+

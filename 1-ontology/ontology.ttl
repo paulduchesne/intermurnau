@@ -1,0 +1,534 @@
+@prefix ns1: <https://www.fiafnet.org/ontology/property/> .
+@prefix ns2: <http://wikibas.se/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.fiafnet.org/ontology/item/16mm> rdfs:label "16mm"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/ac54666c-9992-47f1-9f67-de776af5558e> .
+
+<https://www.fiafnet.org/ontology/item/35mm> rdfs:label "35mm"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/e114234d-6a92-47d1-8edb-19899778f35e> .
+
+<https://www.fiafnet.org/ontology/item/9mm> rdfs:label "9.5mm"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/b4a94721-4d46-4933-abb7-1393c7fd4a86> .
+
+<https://www.fiafnet.org/ontology/item/acetate> rdfs:label "Acetate"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/4a3580d7-d244-4227-9666-df8c76fec0ec> .
+
+<https://www.fiafnet.org/ontology/item/agent> rdfs:label "Agent"@en .
+
+<https://www.fiafnet.org/ontology/item/analogue> rdfs:label "Analogue"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/beb3aa33-3284-459e-ba09-fad11deca128> .
+
+<https://www.fiafnet.org/ontology/item/betacamsp> rdfs:label "Betacam SP"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/e58558ad-fc53-4f56-b85f-ef564590114c> .
+
+<https://www.fiafnet.org/ontology/item/betamax> rdfs:label "Betamax"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/f67d1130-496a-4425-baa5-e0f12d5867bb> .
+
+<https://www.fiafnet.org/ontology/item/birth> rdfs:label "Birth"@en,
+        "Geboorte"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/593e1a36-db60-4ae5-bee5-c7d78ca92ba7> .
+
+<https://www.fiafnet.org/ontology/item/black_and_white> rdfs:label "Black and White"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/1356d64f-73c0-4f79-920c-1c416df713f4> .
+
+<https://www.fiafnet.org/ontology/item/black_and_white_and_colour> rdfs:label "(Black and White) and Colour"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/d2b9c0b2-408b-4a84-8961-c4595cf8987d> .
+
+<https://www.fiafnet.org/ontology/item/cast> rdfs:label "Obsazení"@cs,
+        "Darsteller"@de,
+        "Cast"@en,
+        "Acteur"@nl,
+        "Roll"@sv ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/d3c75228-4f67-45e9-afcf-8a8fd9e4a1af> .
+
+<https://www.fiafnet.org/ontology/item/cinematographer> rdfs:label "Cinematographer"@en,
+        "Camera"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/7014cb2e-5876-4d51-a803-af3b2c081077> .
+
+<https://www.fiafnet.org/ontology/item/colour> rdfs:label "Colour"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/9d81ece3-a3bc-4cd7-bd6d-4970eaf79f7f> .
+
+<https://www.fiafnet.org/ontology/item/composer> rdfs:label "Composer"@en,
+        "Componist"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/8cef3ab1-d75f-405b-934d-d5ade60459a8> .
+
+<https://www.fiafnet.org/ontology/item/czech_republic> rdfs:label "Česko"@cs,
+        "Tschechien"@de,
+        "Czech Republic"@en,
+        "Tsjechië"@nl,
+        "Tjeckien"@sv ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/9339368f-2a43-4846-b276-c50c245f3bef> .
+
+<https://www.fiafnet.org/ontology/item/d2> rdfs:label "D2"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/3a2b1637-4aed-4f39-9e93-14b457e24cc1> .
+
+<https://www.fiafnet.org/ontology/item/d5> rdfs:label "D5"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/a7f7660b-7c9c-4f57-97a5-5a7fa7669475> .
+
+<https://www.fiafnet.org/ontology/item/death> rdfs:label "Death"@en,
+        "Sterf"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/54a3b0d4-efb4-42da-9007-d64bdacac39d> .
+
+<https://www.fiafnet.org/ontology/item/decision_censorship> rdfs:label "Decision (Censorship)"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/ba53d7f7-d45d-4af4-88cc-3dfc0865b9b6> .
+
+<https://www.fiafnet.org/ontology/item/decision_copyright> rdfs:label "Decision (Copyright)"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/49f91982-5c93-4e27-9d99-898e450402bd> .
+
+<https://www.fiafnet.org/ontology/item/diacetate> rdfs:label "Diacetate"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/79bac2a3-2671-4302-b2b8-05f5fb09ee7d> .
+
+<https://www.fiafnet.org/ontology/item/digibeta> rdfs:label "Digibeta"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/2e33666f-fc36-47fe-8f78-8b19f3b26efd> .
+
+<https://www.fiafnet.org/ontology/item/digital> rdfs:label "Digital"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/20836f13-180c-4a68-82ef-bcc1312ad73d> .
+
+<https://www.fiafnet.org/ontology/item/director> rdfs:label "Director"@en,
+        "Regie"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/816b2d9e-14bb-415f-bac2-f434dd9f63d6> .
+
+<https://www.fiafnet.org/ontology/item/disc> rdfs:label "Disc"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/c2c58d2f-9e88-46b4-ab03-fd6b0edbf8b8> .
+
+<https://www.fiafnet.org/ontology/item/duplicate_negative> rdfs:label "Duplicate Negative"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/3d7e9c6b-013f-4026-b393-39e7184f2312> .
+
+<https://www.fiafnet.org/ontology/item/duplicate_positive> rdfs:label "Duplicate Positive"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/081067d1-dcf7-4ec4-bad6-1b3b6156d3d2> .
+
+<https://www.fiafnet.org/ontology/item/duplicate_reversal> rdfs:label "Duplicate reversal"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/2828b06d-0674-4fcb-9548-783a85421fa1> .
+
+<https://www.fiafnet.org/ontology/item/dutch> rdfs:label "Dutch"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/beff3a2b-eadd-4fd8-9dd1-93bc896cee6e> .
+
+<https://www.fiafnet.org/ontology/item/dvd> rdfs:label "DVD"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/3fbb2d4e-8122-4639-8dc4-6f85017f4de2> .
+
+<https://www.fiafnet.org/ontology/item/editor> rdfs:label "Editor"@en,
+        "Montage"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/ef05a580-cf1d-4fb0-882a-a1b37437e1b0> .
+
+<https://www.fiafnet.org/ontology/item/english> rdfs:label "English"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/85faacf7-9fb1-46a7-b963-7c13e21fa3e7> .
+
+<https://www.fiafnet.org/ontology/item/female> rdfs:label "Female"@en,
+        "Vrouw"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/956db250-54af-4617-99d3-669b967da579> .
+
+<https://www.fiafnet.org/ontology/item/film> rdfs:label "Film"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/96f9653a-9b95-4126-abd1-e77bfb4fbd57> .
+
+<https://www.fiafnet.org/ontology/item/fine_grain_master> rdfs:label "Fine grain master"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/39bd7e57-6e63-4565-9765-790713360645> .
+
+<https://www.fiafnet.org/ontology/item/french> rdfs:label "French"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/406e593a-6498-45e1-91bb-8367c6b4257f> .
+
+<https://www.fiafnet.org/ontology/item/german> rdfs:label "German"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/755f4628-0e65-46e4-9c87-f4a2884423d6> .
+
+<https://www.fiafnet.org/ontology/item/germany> rdfs:label "Germany"@en,
+        "Duitsland"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/bb40d6b6-ac65-49e4-8f58-dbf78818bf22> .
+
+<https://www.fiafnet.org/ontology/item/hdcam> rdfs:label "HDcam"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/8761b41f-21ba-4f64-8e63-107f6e899e76> .
+
+<https://www.fiafnet.org/ontology/item/hi8> rdfs:label "Hi8"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/8478276f-b37e-4856-a699-f1086d71e47c> .
+
+<https://www.fiafnet.org/ontology/item/holding_institution> rdfs:label "Institution"@en .
+
+<https://www.fiafnet.org/ontology/item/item> rdfs:label "Item"@en .
+
+<https://www.fiafnet.org/ontology/item/lending> rdfs:label "Lending"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/a28a5dba-6b5d-48dd-bc47-aa7ef6c9b871> .
+
+<https://www.fiafnet.org/ontology/item/magnetic> rdfs:label "Magnetic"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/df3954c5-618c-4f47-a8f3-9d68f0547105> .
+
+<https://www.fiafnet.org/ontology/item/magnetic_track> rdfs:label "Magnetic track"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/64d8900a-13b3-4808-8234-d36a273aac94> .
+
+<https://www.fiafnet.org/ontology/item/male> rdfs:label "Male"@en,
+        "Man"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/acb1aa41-ca9b-4a80-8c43-084f73cf0bf6> .
+
+<https://www.fiafnet.org/ontology/item/manifestation> rdfs:label "Manifestation"@en .
+
+<https://www.fiafnet.org/ontology/item/master> rdfs:label "Master"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/bcdead5b-aa81-4067-809e-ec07855ee866> .
+
+<https://www.fiafnet.org/ontology/item/moma_only> rdfs:label "MoMA use only"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/db25b75d-8af9-43da-bcea-b4bbf7525c15> .
+
+<https://www.fiafnet.org/ontology/item/monographic> rdfs:label "Monographic"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/33bcd934-aa91-4f6d-8a5e-6c72bb652e46> .
+
+<https://www.fiafnet.org/ontology/item/mxf> rdfs:label "MXF"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/7eb45901-35c6-4a2c-ad49-a222486be058> .
+
+<https://www.fiafnet.org/ontology/item/negative> rdfs:label "Negative"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/e4c911a0-1a64-40fe-b864-36ed7aed01cd> .
+
+<https://www.fiafnet.org/ontology/item/netherlands> rdfs:label "Netherlands"@en,
+        "Nederland"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/d7444dee-ea76-4208-9df0-1d9f7d03776a> .
+
+<https://www.fiafnet.org/ontology/item/nitrate> rdfs:label "Nitrate"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/4d6900a3-b804-449f-a46d-d9656739384b> .
+
+<https://www.fiafnet.org/ontology/item/optical> rdfs:label "Optical"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/d23a476c-7428-48f6-9704-e45bf54672e5> .
+
+<https://www.fiafnet.org/ontology/item/original_negative> rdfs:label "Original Negative"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/434e1b48-18e4-4b62-a38e-5293ed0aa648> .
+
+<https://www.fiafnet.org/ontology/item/original_title> rdfs:label "Nazev Origin"@cs,
+        "Originaltitel"@de,
+        "Original Title"@en,
+        "Originele Titel"@nl,
+        "Originaltitel"@sv ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/f10cea99-1765-45d9-b0c6-e19f0bc2dc08> .
+
+<https://www.fiafnet.org/ontology/item/polyester> rdfs:label "Polyester"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/31238ecc-e7d8-49df-b1b3-c8bae4f3801c> .
+
+<https://www.fiafnet.org/ontology/item/print> rdfs:label "Print"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/09781702-9733-46a9-9097-f1e7aa6f37b6> .
+
+<https://www.fiafnet.org/ontology/item/producer> rdfs:label "Producer"@en,
+        "Producent"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/694ef707-5a3c-4a47-9a23-60ef0082259a> .
+
+<https://www.fiafnet.org/ontology/item/publication> rdfs:label "Publication"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/97a3425d-9e17-4861-bcb3-3b448a99c1f4> .
+
+<https://www.fiafnet.org/ontology/item/quarter-inch> rdfs:label "1/4-inch"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/9db3820b-1803-4cdf-9bf0-caca2039052c> .
+
+<https://www.fiafnet.org/ontology/item/restricted> rdfs:label "Restricted"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/ceffc287-934a-4205-aa20-aa8be4267e71> .
+
+<https://www.fiafnet.org/ontology/item/screenwriter> rdfs:label "Screenwriter"@en,
+        "Scenarioschrijver"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/a5da0d7a-e7a0-47aa-8747-9ab85b6af980> .
+
+<https://www.fiafnet.org/ontology/item/silent> rdfs:label "Silent"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/e697fce1-9549-47b1-b20d-bc520c1b9cdf> .
+
+<https://www.fiafnet.org/ontology/item/sound> rdfs:label "Sound"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/6344cab1-e4fd-4bd7-aa3d-d3be8bab9a3f> .
+
+<https://www.fiafnet.org/ontology/item/sound_negative> rdfs:label "Sound Negative"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/9fcba09d-b5f4-4a97-8074-9639ed166e7c> .
+
+<https://www.fiafnet.org/ontology/item/sound_tape> rdfs:label "Soundtape"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/2e8aa37f-61a4-4fc8-8b59-990390613be5> .
+
+<https://www.fiafnet.org/ontology/item/sweden> rdfs:label "Švédsko"@cs,
+        "Schweden"@de,
+        "Sweden"@en,
+        "Zweden"@nl,
+        "Sverige"@sv ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/51bf0274-4cbe-47b1-acba-3b809127aaa4> .
+
+<https://www.fiafnet.org/ontology/item/tinted> rdfs:label "Tinted"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/1424e472-e6d3-4c6b-8540-d8dd03e36a79> .
+
+<https://www.fiafnet.org/ontology/item/track_negative> rdfs:label "Track negative"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/083d65d6-76de-43de-b561-8ac80aadd0d4> .
+
+<https://www.fiafnet.org/ontology/item/uk> rdfs:label "United Kingdom"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/b229f48d-9ce2-43a8-979e-c8c096ceb5a4> .
+
+<https://www.fiafnet.org/ontology/item/umatic> rdfs:label "U-matic"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/ad6b762b-b0be-4440-9b79-898d85a80d34> .
+
+<https://www.fiafnet.org/ontology/item/usa> rdfs:label "United States of America"@en,
+        "Verenigde Staten"@nl ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/4bf04648-bafc-4c82-a6e8-ced3d9f015f8> .
+
+<https://www.fiafnet.org/ontology/item/vhs> rdfs:label "VHS"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/03b8529e-0b21-4bb9-a684-1ed4803e8f75> .
+
+<https://www.fiafnet.org/ontology/item/video_tape> rdfs:label "Videotape"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/d2671ab5-cf27-4c36-9443-5ec8883ef1b7> .
+
+<https://www.fiafnet.org/ontology/item/viewing> rdfs:label "Viewing"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/70063597-28a7-407e-9a56-004c271cefa8> .
+
+<https://www.fiafnet.org/ontology/item/work> rdfs:label "Work"@en .
+
+<https://www.fiafnet.org/ontology/item/work_print> rdfs:label "Work Print"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/cf21dfff-ef17-463e-a497-b4bee1904c6d> .
+
+<https://www.fiafnet.org/ontology/item/work_title> rdfs:label "Work Title"@en ;
+    ns2:claim <https://www.fiafnet.org/resource/claim/77e53f9d-ea39-4de1-baa3-a1daaa4ebde9> .
+
+ns1:access rdfs:label "access"@en .
+
+ns1:agent rdfs:label "agent"@en .
+
+ns1:agent_type rdfs:label "agent type"@en .
+
+ns1:base rdfs:label "base"@en .
+
+ns1:carrier rdfs:label "carrier"@en .
+
+ns1:certificate rdfs:label "certificate"@en .
+
+ns1:colour rdfs:label "colour"@en .
+
+ns1:contributed_by rdfs:label "contributed by"@en .
+
+ns1:country rdfs:label "country"@en,
+        "vertaling"@nl .
+
+ns1:duration rdfs:label "duration (minutes)"@en .
+
+ns1:element rdfs:label "element"@en .
+
+ns1:event rdfs:label "event"@en .
+
+ns1:event_type rdfs:label "event type"@en .
+
+ns1:extent_feet rdfs:label "extent (feet)"@en .
+
+ns1:extent_metres rdfs:label "extent (metres)"@en .
+
+ns1:external_id rdfs:label "external id"@en .
+
+ns1:forename rdfs:label "forename"@en,
+        "voornamen"@nl .
+
+ns1:gender rdfs:label "gender"@en,
+        "geslacht"@nl .
+
+ns1:held_at rdfs:label "held at"@en .
+
+ns1:instance_of rdfs:label "instance of"@en .
+
+ns1:institution rdfs:label "institution"@en .
+
+ns1:intertitles_language rdfs:label "intertitles language"@en .
+
+ns1:item rdfs:label "item"@en .
+
+ns1:item_of rdfs:label "item of"@en .
+
+ns1:located_in rdfs:label "located in"@en .
+
+ns1:maintitles_language rdfs:label "maintitles language"@en .
+
+ns1:manifestation rdfs:label "manifestation"@en .
+
+ns1:manifestation_of rdfs:label "manifestation of"@en .
+
+ns1:production_country rdfs:label "production country"@en,
+        "productieland"@nl .
+
+ns1:sound rdfs:label "sound"@en .
+
+ns1:sound_format rdfs:label "sound format"@en .
+
+ns1:specific_carrier rdfs:label "specific carrier"@en .
+
+ns1:surname rdfs:label "surname"@en,
+        "familienaam"@nl .
+
+ns1:title rdfs:label "title"@en .
+
+ns1:title_type rdfs:label "title type"@en .
+
+ns1:work rdfs:label "work"@en .
+
+ns1:work_type rdfs:label "work type"@en .
+
+<https://www.fiafnet.org/ontology/item/work_type> rdfs:label "Work Type"@en .
+
+<https://www.fiafnet.org/resource/claim/03b8529e-0b21-4bb9-a684-1ed4803e8f75> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/081067d1-dcf7-4ec4-bad6-1b3b6156d3d2> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/083d65d6-76de-43de-b561-8ac80aadd0d4> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/09781702-9733-46a9-9097-f1e7aa6f37b6> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/1356d64f-73c0-4f79-920c-1c416df713f4> ns1:instance_of <https://www.fiafnet.org/ontology/item/colour_type> .
+
+<https://www.fiafnet.org/resource/claim/1424e472-e6d3-4c6b-8540-d8dd03e36a79> ns1:instance_of <https://www.fiafnet.org/ontology/item/colour_type> .
+
+<https://www.fiafnet.org/resource/claim/20836f13-180c-4a68-82ef-bcc1312ad73d> ns1:instance_of <https://www.fiafnet.org/ontology/item/carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/2828b06d-0674-4fcb-9548-783a85421fa1> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/2e33666f-fc36-47fe-8f78-8b19f3b26efd> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/2e8aa37f-61a4-4fc8-8b59-990390613be5> ns1:instance_of <https://www.fiafnet.org/ontology/item/carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/31238ecc-e7d8-49df-b1b3-c8bae4f3801c> ns1:instance_of <https://www.fiafnet.org/ontology/item/base_type> .
+
+<https://www.fiafnet.org/resource/claim/33bcd934-aa91-4f6d-8a5e-6c72bb652e46> ns1:instance_of <https://www.fiafnet.org/ontology/item/work_type> .
+
+<https://www.fiafnet.org/resource/claim/39bd7e57-6e63-4565-9765-790713360645> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/3a2b1637-4aed-4f39-9e93-14b457e24cc1> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/3d7e9c6b-013f-4026-b393-39e7184f2312> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/3fbb2d4e-8122-4639-8dc4-6f85017f4de2> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/406e593a-6498-45e1-91bb-8367c6b4257f> ns1:instance_of <https://www.fiafnet.org/ontology/item/language> .
+
+<https://www.fiafnet.org/resource/claim/434e1b48-18e4-4b62-a38e-5293ed0aa648> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/49f91982-5c93-4e27-9d99-898e450402bd> ns1:instance_of <https://www.fiafnet.org/ontology/item/event_type> .
+
+<https://www.fiafnet.org/resource/claim/4a3580d7-d244-4227-9666-df8c76fec0ec> ns1:instance_of <https://www.fiafnet.org/ontology/item/base_type> .
+
+<https://www.fiafnet.org/resource/claim/4bf04648-bafc-4c82-a6e8-ced3d9f015f8> ns1:instance_of <https://www.fiafnet.org/ontology/item/country> .
+
+<https://www.fiafnet.org/resource/claim/4d6900a3-b804-449f-a46d-d9656739384b> ns1:instance_of <https://www.fiafnet.org/ontology/item/base_type> .
+
+<https://www.fiafnet.org/resource/claim/51bf0274-4cbe-47b1-acba-3b809127aaa4> ns1:instance_of <https://www.fiafnet.org/ontology/item/country> .
+
+<https://www.fiafnet.org/resource/claim/54a3b0d4-efb4-42da-9007-d64bdacac39d> ns1:instance_of <https://www.fiafnet.org/ontology/item/event_type> .
+
+<https://www.fiafnet.org/resource/claim/593e1a36-db60-4ae5-bee5-c7d78ca92ba7> ns1:instance_of <https://www.fiafnet.org/ontology/item/event_type> .
+
+<https://www.fiafnet.org/resource/claim/6344cab1-e4fd-4bd7-aa3d-d3be8bab9a3f> ns1:instance_of <https://www.fiafnet.org/ontology/item/sound_type> .
+
+<https://www.fiafnet.org/resource/claim/64d8900a-13b3-4808-8234-d36a273aac94> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/694ef707-5a3c-4a47-9a23-60ef0082259a> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/70063597-28a7-407e-9a56-004c271cefa8> ns1:instance_of <https://www.fiafnet.org/ontology/item/access_type> .
+
+<https://www.fiafnet.org/resource/claim/7014cb2e-5876-4d51-a803-af3b2c081077> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/755f4628-0e65-46e4-9c87-f4a2884423d6> ns1:instance_of <https://www.fiafnet.org/ontology/item/language> .
+
+<https://www.fiafnet.org/resource/claim/77e53f9d-ea39-4de1-baa3-a1daaa4ebde9> ns1:instance_of <https://www.fiafnet.org/ontology/item/title_type> .
+
+<https://www.fiafnet.org/resource/claim/79bac2a3-2671-4302-b2b8-05f5fb09ee7d> ns1:instance_of <https://www.fiafnet.org/ontology/item/base_type> .
+
+<https://www.fiafnet.org/resource/claim/7eb45901-35c6-4a2c-ad49-a222486be058> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/816b2d9e-14bb-415f-bac2-f434dd9f63d6> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/8478276f-b37e-4856-a699-f1086d71e47c> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/85faacf7-9fb1-46a7-b963-7c13e21fa3e7> ns1:instance_of <https://www.fiafnet.org/ontology/item/language> .
+
+<https://www.fiafnet.org/resource/claim/8761b41f-21ba-4f64-8e63-107f6e899e76> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/8cef3ab1-d75f-405b-934d-d5ade60459a8> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/9339368f-2a43-4846-b276-c50c245f3bef> ns1:instance_of <https://www.fiafnet.org/ontology/item/country> .
+
+<https://www.fiafnet.org/resource/claim/956db250-54af-4617-99d3-669b967da579> ns1:instance_of <https://www.fiafnet.org/ontology/item/gender> .
+
+<https://www.fiafnet.org/resource/claim/96f9653a-9b95-4126-abd1-e77bfb4fbd57> ns1:instance_of <https://www.fiafnet.org/ontology/item/carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/97a3425d-9e17-4861-bcb3-3b448a99c1f4> ns1:instance_of <https://www.fiafnet.org/ontology/item/event_type> .
+
+<https://www.fiafnet.org/resource/claim/9d81ece3-a3bc-4cd7-bd6d-4970eaf79f7f> ns1:instance_of <https://www.fiafnet.org/ontology/item/colour_type> .
+
+<https://www.fiafnet.org/resource/claim/9db3820b-1803-4cdf-9bf0-caca2039052c> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/9fcba09d-b5f4-4a97-8074-9639ed166e7c> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/a28a5dba-6b5d-48dd-bc47-aa7ef6c9b871> ns1:instance_of <https://www.fiafnet.org/ontology/item/access_type> .
+
+<https://www.fiafnet.org/resource/claim/a5da0d7a-e7a0-47aa-8747-9ab85b6af980> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/a7f7660b-7c9c-4f57-97a5-5a7fa7669475> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/ac54666c-9992-47f1-9f67-de776af5558e> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/acb1aa41-ca9b-4a80-8c43-084f73cf0bf6> ns1:instance_of <https://www.fiafnet.org/ontology/item/gender> .
+
+<https://www.fiafnet.org/resource/claim/ad6b762b-b0be-4440-9b79-898d85a80d34> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/b229f48d-9ce2-43a8-979e-c8c096ceb5a4> ns1:instance_of <https://www.fiafnet.org/ontology/item/country> .
+
+<https://www.fiafnet.org/resource/claim/b4a94721-4d46-4933-abb7-1393c7fd4a86> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/ba53d7f7-d45d-4af4-88cc-3dfc0865b9b6> ns1:instance_of <https://www.fiafnet.org/ontology/item/event_type> .
+
+<https://www.fiafnet.org/resource/claim/bb40d6b6-ac65-49e4-8f58-dbf78818bf22> ns1:instance_of <https://www.fiafnet.org/ontology/item/country> .
+
+<https://www.fiafnet.org/resource/claim/bcdead5b-aa81-4067-809e-ec07855ee866> ns1:instance_of <https://www.fiafnet.org/ontology/item/access_type> .
+
+<https://www.fiafnet.org/resource/claim/beb3aa33-3284-459e-ba09-fad11deca128> ns1:instance_of <https://www.fiafnet.org/ontology/item/sound_format_type> .
+
+<https://www.fiafnet.org/resource/claim/beff3a2b-eadd-4fd8-9dd1-93bc896cee6e> ns1:instance_of <https://www.fiafnet.org/ontology/item/language> .
+
+<https://www.fiafnet.org/resource/claim/c2c58d2f-9e88-46b4-ab03-fd6b0edbf8b8> ns1:instance_of <https://www.fiafnet.org/ontology/item/carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/ceffc287-934a-4205-aa20-aa8be4267e71> ns1:instance_of <https://www.fiafnet.org/ontology/item/access_type> .
+
+<https://www.fiafnet.org/resource/claim/cf21dfff-ef17-463e-a497-b4bee1904c6d> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/d23a476c-7428-48f6-9704-e45bf54672e5> ns1:instance_of <https://www.fiafnet.org/ontology/item/sound_format_type> .
+
+<https://www.fiafnet.org/resource/claim/d2671ab5-cf27-4c36-9443-5ec8883ef1b7> ns1:instance_of <https://www.fiafnet.org/ontology/item/carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/d2b9c0b2-408b-4a84-8961-c4595cf8987d> ns1:instance_of <https://www.fiafnet.org/ontology/item/colour_type> .
+
+<https://www.fiafnet.org/resource/claim/d3c75228-4f67-45e9-afcf-8a8fd9e4a1af> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/d7444dee-ea76-4208-9df0-1d9f7d03776a> ns1:instance_of <https://www.fiafnet.org/ontology/item/country> .
+
+<https://www.fiafnet.org/resource/claim/db25b75d-8af9-43da-bcea-b4bbf7525c15> ns1:instance_of <https://www.fiafnet.org/ontology/item/access_type> .
+
+<https://www.fiafnet.org/resource/claim/df3954c5-618c-4f47-a8f3-9d68f0547105> ns1:instance_of <https://www.fiafnet.org/ontology/item/sound_format_type> .
+
+<https://www.fiafnet.org/resource/claim/e114234d-6a92-47d1-8edb-19899778f35e> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/e4c911a0-1a64-40fe-b864-36ed7aed01cd> ns1:instance_of <https://www.fiafnet.org/ontology/item/element_type> .
+
+<https://www.fiafnet.org/resource/claim/e58558ad-fc53-4f56-b85f-ef564590114c> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/resource/claim/e697fce1-9549-47b1-b20d-bc520c1b9cdf> ns1:instance_of <https://www.fiafnet.org/ontology/item/sound_type> .
+
+<https://www.fiafnet.org/resource/claim/ef05a580-cf1d-4fb0-882a-a1b37437e1b0> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.fiafnet.org/resource/claim/f10cea99-1765-45d9-b0c6-e19f0bc2dc08> ns1:instance_of <https://www.fiafnet.org/ontology/item/title_type> .
+
+<https://www.fiafnet.org/resource/claim/f67d1130-496a-4425-baa5-e0f12d5867bb> ns1:instance_of <https://www.fiafnet.org/ontology/item/specific_carrier_type> .
+
+<https://www.fiafnet.org/ontology/item/gender> rdfs:label "Gender"@en,
+        "Geslacht"@nl .
+
+<https://www.fiafnet.org/ontology/item/sound_type> rdfs:label "Sound Type"@en .
+
+<https://www.fiafnet.org/ontology/item/title_type> rdfs:label "Title Type"@en .
+
+<https://www.fiafnet.org/ontology/item/sound_format_type> rdfs:label "Sound Format Type"@en .
+
+<https://www.fiafnet.org/ontology/item/base_type> rdfs:label "Base Type"@en .
+
+<https://www.fiafnet.org/ontology/item/colour_type> rdfs:label "Colour Type"@en .
+
+<https://www.fiafnet.org/ontology/item/language> rdfs:label "Language"@en .
+
+<https://www.fiafnet.org/ontology/item/access_type> rdfs:label "Access Type"@en .
+
+<https://www.fiafnet.org/ontology/item/carrier_type> rdfs:label "Carrier Type"@en .
+
+<https://www.fiafnet.org/ontology/item/event_type> rdfs:label "Event Type"@en .
+
+<https://www.fiafnet.org/ontology/item/country> rdfs:label "Country"@en,
+        "Vertaling"@nl .
+
+<https://www.fiafnet.org/ontology/item/agent_type> rdfs:label "Agent Type"@en .
+
+<https://www.fiafnet.org/ontology/item/element_type> rdfs:label "Element Type"@en .
+
+<https://www.fiafnet.org/ontology/item/specific_carrier_type> rdfs:label "Specific Carrier Type"@en .
+

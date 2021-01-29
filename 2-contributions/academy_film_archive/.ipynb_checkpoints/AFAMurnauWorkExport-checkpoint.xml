@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adlibXML>
+  <recordList><record priref="1001991" creation="2015-10-17T00:11:20" modification="2020-12-10T02:43:59">
+  <Title>
+    <title>SUNRISE</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>SUNRISE: A SONG OF TWO HUMANS</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W061911</object_number>
+  <Production>
+    <production_country>United States</production_country>
+  </Production>
+  <release>
+    <release_date>1927</release_date>
+    <release_date.type>Release</release_date.type>
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Fox Film Corp.</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Fox Film Corp.</credit.name>
+    <credit.type>Distribution company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Gliese, Rochus</credit.name>
+    <credit.type>Art director</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Rosher, Charles</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Struss, Karl</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Ulmer, Edgar G.</credit.name>
+    <credit.type>Art director</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M4766</parts_reference>
+    <parts.title>SUNRISE: A SONG OF TWO HUMANS</parts.title>
+  </Parts>
+  <Parts>
+    <parts_reference>M69490</parts_reference>
+    <parts.title>SUNRISE [CZECH VERSION]</parts.title>
+  </Parts>
+</record><record priref="1002097" creation="2015-10-17T00:11:20" modification="2020-08-17T17:27:52">
+  <Title>
+    <title>NOSFERATU THE VAMPIRE</title>
+    <title.article />
+    <title.type>FTML main entry</title.type>
+  </Title>
+  <Title>
+    <title>NOSFERATU, EINE SYMPHONIE DES GRAUENS</title>
+    <title.article />
+    <title.type>Country of origin title</title.type>
+  </Title>
+  <Title>
+    <title>NOSFERATU</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>NOSFERATU, A SYMPHONY OF HORROR</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>NOSFERATU, A SYMPHONY OF TERROR</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>TERROR OF DRACULA</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>DIE ZWOLFTE STUNDE</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>NOSFERATU: THE FIRST VAMPIRE</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W062017</object_number>
+  <Production>
+    <production_country>Germany</production_country>
+  </Production>
+  <release>
+    <release_date>1922</release_date>
+    <release_date.type>Release</release_date.type>
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Dieckmann, Enrico</credit.name>
+    <credit.type>Producer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Film Arts Guild</credit.name>
+    <credit.type>Distribution company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Galeen, Henrik</credit.name>
+    <credit.type>Writer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Grau, Albin</credit.name>
+    <credit.type>Art director</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Grau, Albin</credit.name>
+    <credit.type>Producer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Prana-Film GmbH (1921-1922)</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Wagner, F.A.</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M4957</parts_reference>
+    <parts.title>NOSFERATU</parts.title>
+  </Parts>
+  <Parts>
+    <parts_reference>M26674</parts_reference>
+    <parts.title>NOSFERATU [CONDENSED VERSION]</parts.title>
+  </Parts>
+  <Parts>
+    <parts_reference>M80726</parts_reference>
+    <parts.title>NOSFERATU (1922) [2001 IMAGE ENTERTAINMENT VERSION]</parts.title>
+  </Parts>
+  <Parts>
+    <parts_reference>M1153525</parts_reference>
+    <parts.title>NOSFERATU: A SYMPHONY OF HORROR [STREPHON TAYLOR SOUNDTRACK]</parts.title>
+  </Parts>
+</record><record priref="1008958" creation="2015-10-17T00:11:20" modification="2020-12-03T19:58:27">
+  <Title>
+    <title>LAST LAUGH</title>
+    <title.article>THE</title.article>
+    <title.type>FTML main entry</title.type>
+  </Title>
+  <Title>
+    <title>DER LETZTE MANN</title>
+    <title.article />
+    <title.type>Country of origin title</title.type>
+  </Title>
+  <Title>
+    <title>LAST MAN</title>
+    <title.article>THE</title.article>
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>LEAST OF MEN</title>
+    <title.article>THE</title.article>
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W068878</object_number>
+  <Production>
+    <production_country>Germany</production_country>
+  </Production>
+  <release>
+    <release_date>1924</release_date>
+    <release_date.type>Release</release_date.type>
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Freund, Karl</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Mayer, Carl</credit.name>
+    <credit.type>Writer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Pommer, Erich</credit.name>
+    <credit.type>Producer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>UFA</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Universal Pictures</credit.name>
+    <credit.type>Distribution company</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M20762</parts_reference>
+    <parts.title>DER LETZTE MANN</parts.title>
+  </Parts>
+</record><record priref="1008991" creation="2015-10-17T00:11:20" modification="2020-12-10T02:45:40">
+  <Title>
+    <title>TABU</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>TABU: A STORY OF THE SOUTH SEAS</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W068911</object_number>
+  <Production>
+    <production_country>United States</production_country>
+  </Production>
+  <release>
+    <release_date>1931</release_date>
+    <release_date.type />
+  </release>
+  <director_credit>
+    <director>Flaherty, Robert</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Crosby, Floyd</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Golden Bough, Inc.</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M20847</parts_reference>
+    <parts.title>TABU</parts.title>
+  </Parts>
+</record><record priref="1014492" creation="2015-10-17T00:11:20" modification="2020-12-03T20:29:41">
+  <Title>
+    <title>DER BRENNENDE ACKER</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>BURNING SOIL</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W074412</object_number>
+  <Production>
+    <production_country>Germany</production_country>
+  </Production>
+  <release>
+    <release_date>1922</release_date>
+    <release_date.type />
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <Parts>
+    <parts_reference>M33537</parts_reference>
+    <parts.title>DER BRENNENDE ACKER</parts.title>
+  </Parts>
+</record><record priref="1019609" creation="2015-10-17T00:11:20" modification="2020-08-19T00:15:14">
+  <Title>
+    <title>FAUST</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>FAUST: EINE DEUTSCHE VOLKSSAGE</title>
+    <title.article />
+    <title.type>Original language title</title.type>
+  </Title>
+  <Title>
+    <title>FAUST: A GERMAN POPULAR LEGEND</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>FAUST, EINE DEUTSCHE VOLKSSAGE</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W079529</object_number>
+  <Production>
+    <production_country>Germany</production_country>
+  </Production>
+  <release>
+    <release_date>1926</release_date>
+    <release_date.type />
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Kyser, Hans</credit.name>
+    <credit.type>Writer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>UFA</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M42151</parts_reference>
+    <parts.title>FAUST: EINE DEUTSCHE VOLKSSAGE</parts.title>
+  </Parts>
+  <Parts>
+    <parts_reference>M1163486</parts_reference>
+    <parts.title>FAUST: EINE DEUTSCHE VOLKSSAGE [ENGLISH INTERTITLES]</parts.title>
+  </Parts>
+</record><record priref="1022040" creation="2015-10-17T00:11:20" modification="2020-08-19T08:31:47">
+  <Title>
+    <title>FOUR DEVILS</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>4 DEVILS</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W081960</object_number>
+  <Production>
+    <production_country>United States</production_country>
+  </Production>
+  <release>
+    <release_date>1929</release_date>
+    <release_date.type />
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Fox Film Corp.</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Fox, William</credit.name>
+    <credit.type>Presenter</credit.type>
+  </credits>
+  <credits>
+    <credit.name>O'Connell, L. W.</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Palmer, Ernest</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Schuster, Harold</credit.name>
+    <credit.type>Editor</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M46348</parts_reference>
+    <parts.title>FOUR DEVILS [WITHOUT HOLDINGS]</parts.title>
+  </Parts>
+</record><record priref="1033847" creation="2015-10-17T00:11:20" modification="2020-12-03T20:57:57">
+  <Title>
+    <title>SCHLOß VOGELOED: DIE ENTHÜLLUNG EINES GEHEIMNISSES</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>HAUNTED CASTLE: THE EXPOSURE OF A SECRET</title>
+    <title.article>THE</title.article>
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W093767</object_number>
+  <Production>
+    <production_country>Germany</production_country>
+  </Production>
+  <release>
+    <release_date>1921</release_date>
+    <release_date.type>Production</release_date.type>
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Mayer, Carl</credit.name>
+    <credit.type>Writer</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Schäffer, László</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Uco-Film GmbH (1920-1922)</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Wagner, Fritz Arno</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M61979</parts_reference>
+    <parts.title>SCHLOß VOGELOED: DIE ENTHÜLLUNG EINES GEHEIMNISSES</parts.title>
+  </Parts>
+</record><record priref="1034178" creation="2015-10-17T00:11:20" modification="2020-08-19T18:29:50">
+  <Title>
+    <title>CITY GIRL</title>
+    <title.article />
+    <title.type />
+  </Title>
+  <Title>
+    <title>OUR DAILY BREAD</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <object_number>W094098</object_number>
+  <Production>
+    <production_country>United States</production_country>
+  </Production>
+  <language>
+    <language>English</language>
+    <language.type>
+      <value lang="neutral">DIALORIG</value>
+      <value lang="0">Original</value>
+      <value lang="3">OF</value>
+    </language.type>
+  </language>
+  <release>
+    <release_date>1930</release_date>
+    <release_date.type />
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+  <credits>
+    <credit.name>Fox Film Corp.</credit.name>
+    <credit.type>Production company</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Fox, William</credit.name>
+    <credit.type>Presenter</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Hilliker, Katharine</credit.name>
+    <credit.type>Editor</credit.type>
+  </credits>
+  <credits>
+    <credit.name>Palmer, Ernest</credit.name>
+    <credit.type>Director of photography</credit.type>
+  </credits>
+  <Parts>
+    <parts_reference>M62542</parts_reference>
+    <parts.title>CITY GIRL</parts.title>
+  </Parts>
+</record><record priref="1253260" creation="2016-11-14T02:48:01" modification="2020-12-03T19:41:02">
+  <Title>
+    <title>TARTUFFE, THE HYPOCRITE</title>
+    <title.article />
+    <title.type>FTML main entry</title.type>
+  </Title>
+  <Title>
+    <title>HERR TARTÜFF</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>DER SCHEINHEILIGE</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>TARTUFFE</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>TARTUEFF</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>THE HYPOCRITE</title>
+    <title.article />
+    <title.type>Alternate title</title.type>
+  </Title>
+  <Title>
+    <title>TARTÜFF</title>
+    <title.article />
+    <title.type>Country of origin title</title.type>
+  </Title>
+  <object_number>W1253260</object_number>
+  <Production>
+    <production_country>Germany</production_country>
+  </Production>
+  <release>
+    <release_date>1925</release_date>
+    <release_date.type />
+  </release>
+  <director_credit>
+    <director>Murnau, F.W.</director>
+    <director.type>Director</director.type>
+  </director_credit>
+</record></recordList>
+</adlibXML>

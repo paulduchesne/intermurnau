@@ -1,0 +1,148 @@
+@prefix ns1: <https://www.fiafnet.org/ontology/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.fiafnet.org/ontology/item/16mm> rdfs:label "16mm"@en,
+        "16mm"@nl .
+
+<https://www.fiafnet.org/ontology/item/35mm> rdfs:label "35mm"@en,
+        "35mm"@nl .
+
+<https://www.fiafnet.org/ontology/item/acetate> rdfs:label "acetate"@en,
+        "acetaat"@nl .
+
+<https://www.fiafnet.org/ontology/item/agent> rdfs:label "agent"@en .
+
+<https://www.fiafnet.org/ontology/item/agent_type> rdfs:label "agent type"@en .
+
+<https://www.fiafnet.org/ontology/item/birth> rdfs:label "birth"@en,
+        "geboorte"@nl .
+
+<https://www.fiafnet.org/ontology/item/cast> rdfs:label "obsazení"@cs,
+        "darsteller"@de,
+        "cast"@en,
+        "acteur"@nl,
+        "roll"@sv .
+
+<https://www.fiafnet.org/ontology/item/cinematographer> rdfs:label "cinematographer"@en,
+        "camera"@nl .
+
+<https://www.fiafnet.org/ontology/item/composer> rdfs:label "composer"@en,
+        "componist"@nl .
+
+<https://www.fiafnet.org/ontology/item/death> rdfs:label "death"@en,
+        "sterf"@nl .
+
+<https://www.fiafnet.org/ontology/item/digibeta> rdfs:label "digibeta"@en,
+        "digibeta"@nl .
+
+<https://www.fiafnet.org/ontology/item/director> rdfs:label "director"@en,
+        "regie"@nl .
+
+<https://www.fiafnet.org/ontology/item/editor> rdfs:label "editor"@en,
+        "montage"@nl .
+
+<https://www.fiafnet.org/ontology/item/event_type> rdfs:label "event type"@en .
+
+<https://www.fiafnet.org/ontology/item/female> rdfs:label "female"@en,
+        "vrouw"@nl ;
+    ns1:instance_of <https://www.fiafnet.org/ontology/item/gender> .
+
+<https://www.fiafnet.org/ontology/item/item> rdfs:label "item"@en .
+
+<https://www.fiafnet.org/ontology/item/male> rdfs:label "male"@en,
+        "man"@nl ;
+    ns1:instance_of <https://www.fiafnet.org/ontology/item/gender> .
+
+<https://www.fiafnet.org/ontology/item/manifestation> rdfs:label "manifestation"@en .
+
+<https://www.fiafnet.org/ontology/item/negative> rdfs:label "negative"@en,
+        "negatief"@nl .
+
+<https://www.fiafnet.org/ontology/item/netherlands> rdfs:label "netherlands"@en,
+        "nederland"@nl .
+
+<https://www.fiafnet.org/ontology/item/nitrate> rdfs:label "nitrate"@en,
+        "nitraat"@nl .
+
+<https://www.fiafnet.org/ontology/item/original_title> rdfs:label "nazev origin"@cs,
+        "originaltitel"@de,
+        "original title"@en,
+        "originele titel"@nl,
+        "originaltitel"@sv ;
+    ns1:instance_of <https://www.fiafnet.org/ontology/item/title_type> .
+
+<https://www.fiafnet.org/ontology/item/positive> rdfs:label "positive"@en,
+        "positief"@nl .
+
+<https://www.fiafnet.org/ontology/item/preservation> rdfs:label "preservation"@en,
+        "conserveringselement"@nl .
+
+<https://www.fiafnet.org/ontology/item/producer> rdfs:label "producer"@en,
+        "producent"@nl .
+
+<https://www.fiafnet.org/ontology/item/projection> rdfs:label "projection"@en,
+        "projectiekopie"@nl .
+
+<https://www.fiafnet.org/ontology/item/release_date> rdfs:label "release date"@en,
+        "releasedatum"@nl .
+
+<https://www.fiafnet.org/ontology/item/reversal> rdfs:label "reversal"@en,
+        "omkeer kopie"@nl .
+
+<https://www.fiafnet.org/ontology/item/screenwriter> rdfs:label "screenwriter"@en,
+        "scenarioschrijver"@nl .
+
+<https://www.fiafnet.org/ontology/item/videotape> rdfs:label "videotape"@en,
+        "videotape"@nl .
+
+<https://www.fiafnet.org/ontology/item/work> rdfs:label "work"@en .
+
+ns1:agent rdfs:label "agent"@en .
+
+ns1:agent_type rdfs:label "agent type"@en .
+
+ns1:carrier rdfs:label "carrier"@en,
+        "drager"@nl .
+
+ns1:contributed_by rdfs:label "contributed by"@en .
+
+ns1:country rdfs:label "country"@en,
+        "vertaling"@nl .
+
+ns1:event rdfs:label "event"@en .
+
+ns1:event_type rdfs:label "event type"@en .
+
+ns1:forename rdfs:label "forename"@en,
+        "voornamen"@nl .
+
+ns1:format rdfs:label "format"@en,
+        "formaat"@nl .
+
+ns1:function rdfs:label "function"@en,
+        "functie"@nl .
+
+ns1:gender rdfs:label "gender"@en,
+        "geslacht"@nl .
+
+ns1:instance_of rdfs:label "instance of"@en .
+
+ns1:item_of rdfs:label "item of"@en .
+
+ns1:manifestation_of rdfs:label "manifestation of"@en .
+
+ns1:surname rdfs:label "surname"@en,
+        "familienaam"@nl .
+
+ns1:title rdfs:label "title"@en .
+
+ns1:title_type rdfs:label "title type"@en .
+
+ns1:type rdfs:label "type"@en,
+        "soort"@nl .
+
+<https://www.fiafnet.org/ontology/item/title_type> rdfs:label "title type"@en .
+
+<https://www.fiafnet.org/ontology/item/gender> rdfs:label "gender"@en,
+        "geslacht"@nl .
+

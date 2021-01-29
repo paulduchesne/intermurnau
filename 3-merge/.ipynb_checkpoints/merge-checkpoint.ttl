@@ -1,0 +1,547 @@
+@prefix ns1: <https://www.fiafnet.org/ontology/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<1ff2883d-9979-4e82-9587-c7eb8d1515f0> rdfs:label "Der Bucklige und die Tänzerin" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <509082ee-9e2f-419e-99cc-f2991d8b4027> ;
+    ns1:sfi_id "625469" .
+
+<2133bee9-5b35-42ee-9430-d6cf22df634d> rdfs:label "Der Knabe in Blau" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <217dacf5-9b88-4cfe-8d72-29682eadbb7c>,
+        <c201b6d5-c61b-4a7a-98e7-f6fd0735fcf9> ;
+    ns1:sfi_id "30186" .
+
+<3ca8be60-647c-442c-a931-cd45dae834bc> rdfs:label "TARTÜFF",
+        "Tartüff" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <0827f78b-3717-4467-8e69-6c3a97cec275>,
+        <18953689-4f68-4a93-9cd3-738153722076>,
+        <24fb81e7-e180-45c4-bca4-c9711c79e816>,
+        <32312596-c1b0-4883-b716-b2f43ba17a9d>,
+        <4be8a19e-b9b1-457d-9d87-79a44e992795>,
+        <62298eb6-9d9d-41ed-9edf-91b118eda847>,
+        <8c9d925a-8f34-42aa-8af1-48c51e049c5a>,
+        <95014eda-9f5e-4778-bb2f-f1c08afe28b5>,
+        <d88aea99-a2c7-4623-88d8-66a1565e2ace>,
+        <e1a6c4da-73bb-4b67-9c59-8ef1bbc31027> ;
+    ns1:barch_id "1210" ;
+    ns1:sfi_id "9256" .
+
+<4252a967-22f0-4e10-9748-975c65af43d6> rdfs:label "Four Devils" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <54ea5c47-37c3-4831-b7f2-5cbc0f30fd66>,
+        <d31497d5-1657-4d33-8bbf-6d1c751013bc> ;
+    ns1:sfi_id "26009" .
+
+<43a056d6-30f6-4c3a-8b4f-661947451c7b> rdfs:label "Die Finanzen des Grossherzogs",
+        "Die Finanzen des Großherzogs" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <396e4a4c-8889-49f8-b18e-93e6245d14b2>,
+        <c2940f80-afe9-4521-b279-bbc97b76fa2a>,
+        <e9bd8c4c-9c03-4273-b21d-e81a4e27b6aa> ;
+    ns1:barch_id "58485" ;
+    ns1:sfi_id "25850" .
+
+<45781ef2-91ce-4198-8e16-527aa021873f> rdfs:label "DIE ZWÖLFTE STUNDE" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <4a81f1ef-40a1-4c14-9366-9cb616634f84>,
+        <63375088-f1fb-4900-b5b8-526ffb721aa5>,
+        <b7f138e3-cb06-435e-9cd0-5aecfbc10264> ;
+    ns1:barch_id "3014" .
+
+<4b93f196-4790-4437-8505-d66978d8b02e> rdfs:label "Der brennende Acker" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <2a1c8a75-35e8-439e-9d97-3d080131d112>,
+        <510ff3bf-3903-401f-8482-8af1c0bd5074>,
+        <55dbf66d-6414-4e27-b11e-c520d7f2f007>,
+        <f98d2916-578d-46c7-9ba5-d442994eb7c3> ;
+    ns1:barch_id "53080" ;
+    ns1:sfi_id "30183" .
+
+<4c9706ba-9c8b-4f42-b7d1-c99ca54be405> rdfs:label "Der Januskopf" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <088b8929-4315-40b5-bbf7-4faf96562c7b>,
+        <810abb5b-d19a-4e16-a25c-42e87b31a1b3> ;
+    ns1:sfi_id "27500" .
+
+<66db27a7-48ef-40ad-b17a-36d95189a923> rdfs:label "Faust",
+        "Faust : Eine deutsche Volkssage" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <2f12e5ff-6330-40ec-a6ca-b205a57f134d>,
+        <42f3b3ca-9a42-4c08-84f2-2b93818fa5af>,
+        <59e6f5a6-6cfa-4bd7-a275-8592467e4b36>,
+        <789a626b-5c92-4b60-b552-f3c709e6c47b>,
+        <a9f8b8e1-a0e6-4793-9777-a8848c4017f2>,
+        <b01299ce-6cf7-44e8-9591-ce8d25248af6>,
+        <bfd873e1-1e60-4f37-ab0e-47cf3c5e05e0>,
+        <d5327a8d-1dcd-4af6-801e-ab04db3fca3c>,
+        <d6e8341f-19bc-499c-875c-9e0dff8db36b> ;
+    ns1:barch_id "5431" ;
+    ns1:sfi_id "9190" .
+
+<865434ce-f88d-4847-a025-b0e2f9ee6468> rdfs:label "Sunrise - A Song of Two Humans" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <00973e8d-b48d-4de4-adbf-b30b9ddc3ed2>,
+        <07fc54de-1b40-462b-ba41-878e8b003067>,
+        <e1e99693-9c9d-455b-a074-42ca32844c49> ;
+    ns1:sfi_id "17859" .
+
+<874eb67d-4ae8-4979-b60a-6da37beef605> rdfs:label "DIE FILMSTADT HOLLYWOOD" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <43dcc502-d293-4685-bac9-3fca68f6909f>,
+        <5eb216fa-a946-492c-92ca-7427d064cd76>,
+        <ce5b81b3-e935-48a3-a47a-5a490d34cc90>,
+        <dcdaada3-476c-45b2-b6a4-754cdbc8d283> ;
+    ns1:barch_id "899" .
+
+<9865fda7-e7e1-45ed-a549-e61cbc8d7424> rdfs:label "title" .
+
+<a2df68be-00cb-498e-a0f4-c2421f320f2f> rdfs:label "Der letzte Mann" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <2093b6a6-43a8-4a25-8a35-47bb81312a9d>,
+        <4c334e59-ac94-4a70-810d-9dad45898036>,
+        <80548e7f-d123-45ef-8619-79b22759c01a>,
+        <8ad3e053-4db8-4fd1-ad04-692277794ee7> ;
+    ns1:barch_id "5438" ;
+    ns1:sfi_id "9215" .
+
+<b3d3468f-58bf-4cbc-8414-e344ecd92660> rdfs:label "Nosferatu",
+        "Nosferatu : Eine Symphonie des Grauens" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <026b8d0c-1856-4900-9fef-3ec5139b63ee>,
+        <17b2b5b2-7ef5-4dc6-a214-81ff46eaf96b>,
+        <2c5506fc-91bf-461d-a8ef-64e9c1a1c224>,
+        <a5055ab1-7b8b-4031-8268-7d01e024b2a7>,
+        <ad821e2d-a867-444c-a89b-df516be93e4e>,
+        <c375409c-c5c7-4b7b-957b-371d7ecfb520> ;
+    ns1:barch_id "40041" ;
+    ns1:sfi_id "11806" .
+
+<c2e499a3-f245-4928-b159-68dc09c53040> rdfs:label "Schloss Vogelöd : Eine Enthüllung eines Geheimnisses",
+        "Schloß Vogelöd" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <1bde3452-c4fa-46d7-a7b6-ea19e63d0b7f>,
+        <cb417fc3-baba-4590-8962-6fbac84634ca>,
+        <dc02c9b2-7dbd-4494-a498-7be42550d28b> ;
+    ns1:barch_id "74618" ;
+    ns1:sfi_id "52981" .
+
+<cfdbe09b-1996-431a-abbc-ce5c94380dc9> rdfs:label "Die Austreibung : Die Macht der zweiten Frau" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <cde967ca-91d8-4d0a-85d5-3b48aa061c6e> ;
+    ns1:sfi_id "30185" .
+
+<d2de415f-843d-467d-8ba2-8612068a379a> rdfs:label "Phantom" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <ac155a01-fc17-4e1c-80ec-5db02ca9716f>,
+        <e22d5c98-8820-412f-b56b-35e044cfe24b>,
+        <e5e3e035-4332-4459-aff7-511f5e2c6047> ;
+    ns1:barch_id "75320" ;
+    ns1:sfi_id "30184" .
+
+<d4bec851-d074-4d2f-83f1-31f3692771ea> rdfs:label "title type" .
+
+<dff00d52-f853-4f59-b9a8-832a5c78d78b> rdfs:label "Sehnsucht" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <1df49a66-7c0d-4d4b-a66b-8c9a08ad3ad9>,
+        <6c3b7b3c-c5fe-4af1-b264-6ae868fa2da4> ;
+    ns1:sfi_id "30187" .
+
+<e3e357d2-830f-47cc-bb44-1a9aba62c55a> rdfs:label "The City Girl" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <2aa1796d-b9b2-46e2-9a8d-29cd28e35fb0>,
+        <6dca8174-6dbf-435f-85a8-dede618cdba6> ;
+    ns1:sfi_id "19678" .
+
+<e7bec983-f306-444f-a348-1efe1df9d3e0> rdfs:label "Der Gang in die Nacht" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <0e821062-ba3c-47de-8fbb-c01d9eb6f7a3>,
+        <2f164d5d-a922-4682-a01d-dbcbe6213bf2>,
+        <7ff8f0db-2025-42f3-8292-e8dba529b8a6> ;
+    ns1:barch_id "61578" ;
+    ns1:sfi_id "91955" .
+
+<e8403aa1-216b-4dc2-ae6b-6ea9b74a2ae2> rdfs:label "Tabu : A Story of the South Seas" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <18308926-303f-4894-9eb6-f5d815cea8b1>,
+        <2372dc0e-3e39-48bd-b270-a64a3ee18ea4>,
+        <541688a8-b5b0-467c-9b2f-f267774c938a>,
+        <8d00be35-fecb-42fd-82ed-196dbdece81c>,
+        <f54259ef-0fee-48a9-8160-0166020961a9> ;
+    ns1:sfi_id "31600" .
+
+<eaba68ad-762a-46ff-93f3-3f3a6a4545db> rdfs:label "Marizza" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <dbd321f8-f590-4674-873e-6db89c31f7b4> ;
+    ns1:sfi_id "50369" .
+
+<f86c7cf3-4c6c-435e-b2d1-12a6cf3dc899> rdfs:label "EINE VENEZIANISCHE NACHT" ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> ;
+    <9865fda7-e7e1-45ed-a549-e61cbc8d7424> <5e36c2ec-3945-4aec-8a30-bf10ae30a85f> ;
+    ns1:barch_id "9663" .
+
+ns1:barch_id rdfs:label "Bundesarchiv ID" .
+
+ns1:sfi_id rdfs:label "Swedish Film Institute ID" .
+
+ns1:title_string rdfs:label "title string" .
+
+<00973e8d-b48d-4de4-adbf-b30b9ddc3ed2> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <6f3cf5a1-5aaf-422f-a8ec-4bf069ae19e0> ;
+    ns1:title_string "Sunrise" .
+
+<0196b43a-7684-471d-9970-ee3558eea98a> rdfs:label "Title for Swedish Video release"@en,
+        "Videotitel i Sverige"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<026b8d0c-1856-4900-9fef-3ec5139b63ee> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Nosferatu" .
+
+<07fc54de-1b40-462b-ba41-878e8b003067> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Soluppgång" .
+
+<0827f78b-3717-4467-8e69-6c3a97cec275> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Hycklaren : Ett filmspel i fem akter" .
+
+<088b8929-4315-40b5-bbf7-4faf96562c7b> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Dr. Jekyll och Mr. Hyde" .
+
+<0e821062-ba3c-47de-8fbb-c01d9eb6f7a3> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Der Gang in die Nacht" .
+
+<17b2b5b2-7ef5-4dc6-a214-81ff46eaf96b> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <0196b43a-7684-471d-9970-ee3558eea98a> ;
+    ns1:title_string "Nosferatu" .
+
+<18308926-303f-4894-9eb6-f5d815cea8b1> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "Söderhavets Tarzan" .
+
+<18953689-4f68-4a93-9cd3-738153722076> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "Herr Tartüff" .
+
+<1bde3452-c4fa-46d7-a7b6-ea19e63d0b7f> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Schloß Vogelöd" .
+
+<1df49a66-7c0d-4d4b-a66b-8c9a08ad3ad9> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Sista dansen" .
+
+<2093b6a6-43a8-4a25-8a35-47bb81312a9d> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Der letzte Mann" .
+
+<217dacf5-9b88-4cfe-8d72-29682eadbb7c> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Der Knabe in Blau" .
+
+<2372dc0e-3e39-48bd-b270-a64a3ee18ea4> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Tabu" .
+
+<24fb81e7-e180-45c4-bca4-c9711c79e816> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Tartüff" .
+
+<2a1c8a75-35e8-439e-9d97-3d080131d112> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Der brennende Acker" .
+
+<2aa1796d-b9b2-46e2-9a8d-29cd28e35fb0> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Storstadsflickan" .
+
+<2c5506fc-91bf-461d-a8ef-64e9c1a1c224> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <9506dd44-2c77-4612-914e-5c64131a5497> ;
+    ns1:title_string "Nosferatu" .
+
+<2f12e5ff-6330-40ec-a6ca-b205a57f134d> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Faust" .
+
+<2f164d5d-a922-4682-a01d-dbcbe6213bf2> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Mellan plikt och kärlek" .
+
+<32312596-c1b0-4883-b716-b2f43ba17a9d> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <f9a3edc5-94f9-4a1f-9236-a93eacdd157c> ;
+    ns1:title_string "Tartüff" .
+
+<396e4a4c-8889-49f8-b18e-93e6245d14b2> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Die Finanzen des Großherzogs" .
+
+<42f3b3ca-9a42-4c08-84f2-2b93818fa5af> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <0413bd5a-5905-424f-b6a5-d19e2cac9cfc> ;
+    ns1:title_string "Eine deutsche Volkssage" .
+
+<43dcc502-d293-4685-bac9-3fca68f6909f> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <55429f75-970c-4442-b9c3-59b0810cac49> ;
+    ns1:title_string "Die Filmstadt Hollywood (Ausschnitt)" .
+
+<4a81f1ef-40a1-4c14-9366-9cb616634f84> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <9a1e40fa-926f-4bf6-a1bc-1a62d1699066> ;
+    ns1:title_string "NOSFERATU (DER VAMPIR)(A)" .
+
+<4be8a19e-b9b1-457d-9d87-79a44e992795> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <1fbcdc04-e121-46a4-b1ff-d048d96bfe54> ;
+    ns1:title_string "Herr Tartüff" .
+
+<4c334e59-ac94-4a70-810d-9dad45898036> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Der letzte Mann" .
+
+<509082ee-9e2f-419e-99cc-f2991d8b4027> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Der Bucklige und die Tänzerin" .
+
+<510ff3bf-3903-401f-8482-8af1c0bd5074> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Der brennende Acker" .
+
+<541688a8-b5b0-467c-9b2f-f267774c938a> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Tabu : A Story of the South Seas" .
+
+<54ea5c47-37c3-4831-b7f2-5cbc0f30fd66> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "De 4 djävlarna" .
+
+<55429f75-970c-4442-b9c3-59b0810cac49> rdfs:label "Büchsentitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<55dbf66d-6414-4e27-b11e-c520d7f2f007> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Den brinnande åkern" .
+
+<59e6f5a6-6cfa-4bd7-a275-8592467e4b36> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Faust : Eine deutsche Volkssage" .
+
+<5e36c2ec-3945-4aec-8a30-bf10ae30a85f> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "EINE VENEZIANISCHE NACHT" .
+
+<5eb216fa-a946-492c-92ca-7427d064cd76> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "DIE FILMSTADT HOLLYWOOD" .
+
+<62298eb6-9d9d-41ed-9edf-91b118eda847> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "TARTÜFF" .
+
+<63375088-f1fb-4900-b5b8-526ffb721aa5> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "DIE ZWÖLFTE STUNDE" .
+
+<6c3b7b3c-c5fe-4af1-b264-6ae868fa2da4> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Sehnsucht" .
+
+<6dca8174-6dbf-435f-85a8-dede618cdba6> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "The City Girl" .
+
+<6f3cf5a1-5aaf-422f-a8ec-4bf069ae19e0> rdfs:label "Title for Swedish DVD release"@en,
+        "Dvd-titel i Sverige"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<789a626b-5c92-4b60-b552-f3c709e6c47b> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <799a8150-0e0c-4ef3-992d-b1e968696bf2> ;
+    ns1:title_string "Eine deutsche Volkssage" .
+
+<7ff8f0db-2025-42f3-8292-e8dba529b8a6> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Der Gang in die Nacht" .
+
+<80548e7f-d123-45ef-8619-79b22759c01a> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "DER LETZTE MANN" .
+
+<810abb5b-d19a-4e16-a25c-42e87b31a1b3> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Der Januskopf" .
+
+<8ad3e053-4db8-4fd1-ad04-692277794ee7> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Sista skrattet ..." .
+
+<8c9d925a-8f34-42aa-8af1-48c51e049c5a> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <1fbcdc04-e121-46a4-b1ff-d048d96bfe54> ;
+    ns1:title_string "HERR TARTÜFF (ZENSURTITEL)" .
+
+<8d00be35-fecb-42fd-82ed-196dbdece81c> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "Kärlekens ö" .
+
+<95014eda-9f5e-4778-bb2f-f1c08afe28b5> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <9af91ba1-2bf3-4f75-b51b-c40b735ec046> ;
+    ns1:title_string "Der Scheinheilige" .
+
+<9506dd44-2c77-4612-914e-5c64131a5497> rdfs:label "Title for Swedish TV release"@en,
+        "TV-titel i Sverige"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<9a1e40fa-926f-4bf6-a1bc-1a62d1699066> rdfs:label "weiterer Originaltitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<9af91ba1-2bf3-4f75-b51b-c40b735ec046> rdfs:label "Deutscher Verleihtitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<a5055ab1-7b8b-4031-8268-7d01e024b2a7> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Nosferatu : Eine Symphonie des Grauens" .
+
+<a9f8b8e1-a0e6-4793-9777-a8848c4017f2> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "FAUST" .
+
+<ac155a01-fc17-4e1c-80ec-5db02ca9716f> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Phantom" .
+
+<ad821e2d-a867-444c-a89b-df516be93e4e> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <799a8150-0e0c-4ef3-992d-b1e968696bf2> ;
+    ns1:title_string "Eine Symphonie des Grauens" .
+
+<b01299ce-6cf7-44e8-9591-ce8d25248af6> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Faust" .
+
+<b14c7c8e-20fd-47ec-85de-30e2b7fb366b> rdfs:label "Re-release title"@en,
+        "Nypremiär-titel"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<b7f138e3-cb06-435e-9cd0-5aecfbc10264> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <0413bd5a-5905-424f-b6a5-d19e2cac9cfc> ;
+    ns1:title_string "EINE NACHT DES GRAUENS" .
+
+<bfd873e1-1e60-4f37-ab0e-47cf3c5e05e0> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <f9a3edc5-94f9-4a1f-9236-a93eacdd157c> ;
+    ns1:title_string "Faust - Eine deutsche Volkssage" .
+
+<c201b6d5-c61b-4a7a-98e7-f6fd0735fcf9> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "Der Todessmaragd" .
+
+<c2940f80-afe9-4521-b279-bbc97b76fa2a> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Storhertigens finanser" .
+
+<c375409c-c5c7-4b7b-957b-371d7ecfb520> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <b14c7c8e-20fd-47ec-85de-30e2b7fb366b> ;
+    ns1:title_string "Die zwölfte Stunde : Eine Nacht des Grausen" .
+
+<c6b75396-7228-459e-aa70-6515b13549e2> rdfs:label "Distribution title"@en,
+        "Distributionstitel"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<cb417fc3-baba-4590-8962-6fbac84634ca> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Schloss Vogelöd : Eine Enthüllung eines Geheimnisses" .
+
+<cde967ca-91d8-4d0a-85d5-3b48aa061c6e> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Die Austreibung : Die Macht der zweiten Frau" .
+
+<ce5b81b3-e935-48a3-a47a-5a490d34cc90> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <f9a3edc5-94f9-4a1f-9236-a93eacdd157c> ;
+    ns1:title_string "Die Geheimnisse der Filmateliers v. Hollywood" .
+
+<d31497d5-1657-4d33-8bbf-6d1c751013bc> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Four Devils" .
+
+<d5327a8d-1dcd-4af6-801e-ab04db3fca3c> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <07e20389-620d-4fd0-9386-20a141d6582c> ;
+    ns1:title_string "Faust" .
+
+<d6e8341f-19bc-499c-875c-9e0dff8db36b> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <0413bd5a-5905-424f-b6a5-d19e2cac9cfc> ;
+    ns1:title_string "EINE DEUTSCHE VOLKSSAGE" .
+
+<d88aea99-a2c7-4623-88d8-66a1565e2ace> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Tartüff" .
+
+<dbd321f8-f590-4674-873e-6db89c31f7b4> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Marizza" .
+
+<dc02c9b2-7dbd-4494-a498-7be42550d28b> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "Schloß Vogelöd" .
+
+<dcdaada3-476c-45b2-b6a4-754cdbc8d283> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <0413bd5a-5905-424f-b6a5-d19e2cac9cfc> ;
+    ns1:title_string "EIN FILM VON DER ARBEIT UND DEM LEBEN IN HOLLYWOOD" .
+
+<e1a6c4da-73bb-4b67-9c59-8ef1bbc31027> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <c6b75396-7228-459e-aa70-6515b13549e2> ;
+    ns1:title_string "Der Scheinheilige" .
+
+<e1e99693-9c9d-455b-a074-42ca32844c49> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Sunrise - A Song of Two Humans" .
+
+<e22d5c98-8820-412f-b56b-35e044cfe24b> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <22ac8468-6099-488a-af89-66bb97e07e00> ;
+    ns1:title_string "Fantom" .
+
+<e5e3e035-4332-4459-aff7-511f5e2c6047> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Phantom" .
+
+<e9bd8c4c-9c03-4273-b21d-e81a4e27b6aa> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> ;
+    ns1:title_string "Die Finanzen des Grossherzogs" .
+
+<f54259ef-0fee-48a9-8160-0166020961a9> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "Tabu: A Story of the South Seas" .
+
+<f98d2916-578d-46c7-9ba5-d442994eb7c3> <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <c9437208-a7cc-4f7f-9e1f-30c27c6ea026> ;
+    <d4bec851-d074-4d2f-83f1-31f3692771ea> <bb966694-2450-40f2-a782-3e332f6899db> ;
+    ns1:title_string "En äregirigs öden" .
+
+<1fbcdc04-e121-46a4-b1ff-d048d96bfe54> rdfs:label "Sonstige Titel "@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<799a8150-0e0c-4ef3-992d-b1e968696bf2> rdfs:label "Untertitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<f9a3edc5-94f9-4a1f-9236-a93eacdd157c> rdfs:label "Übernahmetitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<0413bd5a-5905-424f-b6a5-d19e2cac9cfc> rdfs:label "Zusatztitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<bb966694-2450-40f2-a782-3e332f6899db> rdfs:label "Alternative title"@en,
+        "Alternativtitel"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<22ac8468-6099-488a-af89-66bb97e07e00> rdfs:label "Swedish release title"@en,
+        "Svensk premiärtitel"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<07e20389-620d-4fd0-9386-20a141d6582c> rdfs:label "Originaltitel"@de ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<a7290a16-dddb-4a2e-a276-8298e7d645c5> rdfs:label "title type" .
+
+<d4a0ac30-9211-4ce7-9e7d-000a3fb4df65> rdfs:label "Original title"@en,
+        "Originaltitel"@sv ;
+    <726a20a5-e6f3-4ada-ac52-92d1e71daed6> <a7290a16-dddb-4a2e-a276-8298e7d645c5> .
+
+<6b973c65-7ffd-4ee2-a3f6-852a9956c3b2> rdfs:label "work" .
+
+<c9437208-a7cc-4f7f-9e1f-30c27c6ea026> rdfs:label "title" .
+

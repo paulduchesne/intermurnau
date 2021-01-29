@@ -1,0 +1,989 @@
+@prefix ns1: <https://www.fiafnet.org/ontology/property/> .
+@prefix ns2: <http://wikibas.se/ontology#> .
+@prefix ns3: <https://www.nfa.cz/ontology/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns3:nfa_agent_id rdfs:label "National Film Archive agent ID" .
+
+ns3:nfa_work_id rdfs:label "National Film Archive work ID" .
+
+<https://www.nfa.cz/resource/work/0200640> ns2:claim <https://www.nfa.cz/resource/claim/0039873e-e6ce-4fc2-ab1e-24c96c975338>,
+        <https://www.nfa.cz/resource/claim/00427f73-9b7f-40ee-ae13-da8917ac21c0>,
+        <https://www.nfa.cz/resource/claim/021bbb15-5414-4e9f-b5d8-457ddc9c6cb7>,
+        <https://www.nfa.cz/resource/claim/057daa89-bdb5-401e-9575-085b6d811cc6>,
+        <https://www.nfa.cz/resource/claim/0b606901-cba5-4bb2-ac19-7a9fb5521e99>,
+        <https://www.nfa.cz/resource/claim/0f3fa45c-2106-47d7-8b5c-ebedff8f3c16>,
+        <https://www.nfa.cz/resource/claim/0f428a49-a1a0-4d16-99cb-650043fe78af>,
+        <https://www.nfa.cz/resource/claim/1052d90a-eb88-42e9-b40b-0cee1ab996d0>,
+        <https://www.nfa.cz/resource/claim/2046730e-bb92-470d-87b0-969b009452c2>,
+        <https://www.nfa.cz/resource/claim/2c9dff0f-124d-4149-971d-5acfce28bac9>,
+        <https://www.nfa.cz/resource/claim/34d5ef55-69aa-47b3-abdf-f5e654f21d43>,
+        <https://www.nfa.cz/resource/claim/3b10f9be-d729-47e5-abd8-7e70a4897d27>,
+        <https://www.nfa.cz/resource/claim/3e001fb4-6c3e-4ac2-9117-2d7d3e5da270>,
+        <https://www.nfa.cz/resource/claim/5e61ec19-21e7-466b-b81c-101393b6289f>,
+        <https://www.nfa.cz/resource/claim/6f0a57b9-a4e8-4517-afaf-28795de80282>,
+        <https://www.nfa.cz/resource/claim/79324bad-6e1f-4ae5-8361-d9e32e902f08>,
+        <https://www.nfa.cz/resource/claim/8004b3de-1926-4d8f-bdea-97ffbda4f8f2>,
+        <https://www.nfa.cz/resource/claim/8836dc09-a390-4db7-886a-52ba3b456b79>,
+        <https://www.nfa.cz/resource/claim/8efb7320-f23a-4402-9b85-0c024e7be83f>,
+        <https://www.nfa.cz/resource/claim/98f10331-4967-4c6b-9eb4-2e2b7715429e>,
+        <https://www.nfa.cz/resource/claim/ad06a914-97e4-4f6b-bfe7-4fcf7cf94bc8>,
+        <https://www.nfa.cz/resource/claim/ad869076-9b7c-4962-b494-89914cced98d>,
+        <https://www.nfa.cz/resource/claim/b877adf3-8d33-4b5a-9846-2faa58dce018>,
+        <https://www.nfa.cz/resource/claim/bb1f4396-1c30-404a-89b8-ca2a33a2eeb3>,
+        <https://www.nfa.cz/resource/claim/c002ffea-b84b-460a-a48d-c9dd95e857c6>,
+        <https://www.nfa.cz/resource/claim/c6345f8b-ff56-4373-8f6c-777b9c7e41c0>,
+        <https://www.nfa.cz/resource/claim/d142d9d3-10ee-49bb-94cd-559cf0e8ad96>,
+        <https://www.nfa.cz/resource/claim/d3275078-3baf-4e46-9d91-55a0cbeb4805>,
+        <https://www.nfa.cz/resource/claim/d36554f7-8f70-4be7-a6e8-d217b3c7d7d9>,
+        <https://www.nfa.cz/resource/claim/e2dda9f6-37f6-4fb2-83c1-39e2cfde20e6>,
+        <https://www.nfa.cz/resource/claim/e83392c7-0757-4d3b-bb44-210c996d99dc>,
+        <https://www.nfa.cz/resource/claim/f00b6225-e5d2-4383-958c-17c394ddc389>,
+        <https://www.nfa.cz/resource/claim/f95edcb2-b1aa-47cf-b091-580b44e92546>,
+        <https://www.nfa.cz/resource/claim/fa7bcf55-dca9-49c5-b885-663337f57ba6>,
+        <https://www.nfa.cz/resource/claim/fdd4da79-4eca-47a4-a461-cf0e44783172> .
+
+<https://www.nfa.cz/ontology/item/hudba> rdfs:label "hudba"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/6b044c9d-a755-4839-a538-69a7f2d6a9a2> .
+
+<https://www.nfa.cz/ontology/item/kamera> rdfs:label "kamera"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/1e68f0f5-755e-4a7b-8c2b-ed4aa3747399> .
+
+<https://www.nfa.cz/ontology/item/nazev_origin> rdfs:label "Nazev Origin"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/a2a9c27a-6ac4-4d0a-a2d6-5fe80e8de2f0> .
+
+<https://www.nfa.cz/resource/agent/075e62da-fc02-4581-9be1-dcac945b2c27> ns2:claim <https://www.nfa.cz/resource/claim/1f6f2a31-5c5e-4bef-8ad4-3c6862a8be0f>,
+        <https://www.nfa.cz/resource/claim/98c1a2dd-3958-46fb-8dd9-621caafa0534>,
+        <https://www.nfa.cz/resource/claim/a9e8afa4-00ac-4e4a-b4ca-a9dc2f8a8064> .
+
+<https://www.nfa.cz/resource/agent/0fb4cfb1-3d96-45f7-873f-d22ac2919596> ns2:claim <https://www.nfa.cz/resource/claim/6950f1be-64c2-4a31-aff2-8df4b4733c92>,
+        <https://www.nfa.cz/resource/claim/a9c39dfc-9f27-453c-b010-712fcc9bdfd0>,
+        <https://www.nfa.cz/resource/claim/f90be8c7-fc7a-4803-b6a0-c199da080dad> .
+
+<https://www.nfa.cz/resource/agent/11fe3b0f-a32e-4790-866b-5ac1232f6d5b> ns2:claim <https://www.nfa.cz/resource/claim/3c4e6203-af19-43e1-acde-4c861051ab5f>,
+        <https://www.nfa.cz/resource/claim/4630e62a-a13b-432d-a31c-1959ad99a19a>,
+        <https://www.nfa.cz/resource/claim/a6a30dfb-a2a5-4e63-9b00-cf436ae3b17c> .
+
+<https://www.nfa.cz/resource/agent/18f67af5-be2b-46a2-b237-8311cd88e7e2> ns2:claim <https://www.nfa.cz/resource/claim/4f5edf2c-b01c-486f-9201-d1bba2d2a95a>,
+        <https://www.nfa.cz/resource/claim/9e926ebd-5a2b-4e62-aedb-0e9379991078>,
+        <https://www.nfa.cz/resource/claim/c9c58aff-fce5-4319-a81a-6e158925cd5d> .
+
+<https://www.nfa.cz/resource/agent/19761186-084e-40b0-a442-7f7788f6b85c> ns2:claim <https://www.nfa.cz/resource/claim/620f253f-87a6-469d-ae72-bcfad355087c>,
+        <https://www.nfa.cz/resource/claim/90cef3e9-f19d-4a64-befc-b00742cf9d18>,
+        <https://www.nfa.cz/resource/claim/bc71e20b-472c-4343-b207-9b57884f2336> .
+
+<https://www.nfa.cz/resource/agent/271706b4-97e3-47d5-992d-55e2279d9add> ns2:claim <https://www.nfa.cz/resource/claim/8db22660-2f02-4d6d-a649-a2caaf742902>,
+        <https://www.nfa.cz/resource/claim/91813685-9ae6-4888-bcc0-04b7dab0af10>,
+        <https://www.nfa.cz/resource/claim/d9e6c95c-07d5-4602-bf96-707a5f4ea49c> .
+
+<https://www.nfa.cz/resource/agent/2fbbcf1b-d94e-4d84-b5af-dae6a598ab2f> ns2:claim <https://www.nfa.cz/resource/claim/2eedfbd3-125a-43e1-9bdf-c326b7ca5b0e>,
+        <https://www.nfa.cz/resource/claim/3aad53b8-0606-4e4e-a62e-7ceb48c13c11>,
+        <https://www.nfa.cz/resource/claim/61a2e501-1c1b-479f-a104-5c4bc2f0bb48> .
+
+<https://www.nfa.cz/resource/agent/3431cf50-d533-4719-b9c2-80542e3466d4> ns2:claim <https://www.nfa.cz/resource/claim/8377e279-e007-4a68-9095-fdb2f0d2d5ca>,
+        <https://www.nfa.cz/resource/claim/c756d2cc-a6c1-47df-bf11-4a232ae12f3b>,
+        <https://www.nfa.cz/resource/claim/e3e2a8f2-bc0a-45eb-8834-a87d4ad65885> .
+
+<https://www.nfa.cz/resource/agent/3cdd23d9-c38c-4c3a-9262-4e4a36e10703> ns2:claim <https://www.nfa.cz/resource/claim/2cff6e4d-cdf7-45f8-843f-5e221899d46f>,
+        <https://www.nfa.cz/resource/claim/2f9cd72d-3f3b-425a-9ada-f3cbbc165c2c>,
+        <https://www.nfa.cz/resource/claim/50353104-ae5e-4518-b116-5c1caeab1726> .
+
+<https://www.nfa.cz/resource/agent/409be4a3-35e0-4ea7-936e-e821eae239ba> ns2:claim <https://www.nfa.cz/resource/claim/3c57dce1-8ca2-4196-8a56-687c258a740b>,
+        <https://www.nfa.cz/resource/claim/8e91bc12-e80f-4c76-951d-4ff6664820b2>,
+        <https://www.nfa.cz/resource/claim/9b61d12e-88e9-4f22-836b-d74887f5097f> .
+
+<https://www.nfa.cz/resource/agent/4ab9b95e-6ea9-4d7f-83a4-fff14fa4dae9> ns2:claim <https://www.nfa.cz/resource/claim/3906cfcc-7bb2-4fc5-bbcf-30bffa21e4f1>,
+        <https://www.nfa.cz/resource/claim/42d1edcc-b64b-49ea-b1ff-83333c8dcdc8>,
+        <https://www.nfa.cz/resource/claim/5157422f-5e2b-43de-97e8-079dabfd8908> .
+
+<https://www.nfa.cz/resource/agent/4b0c35ae-6099-4959-a8c6-d333ef5894ce> ns2:claim <https://www.nfa.cz/resource/claim/181468aa-29ee-4815-8f0a-31e5c2f6c6d6>,
+        <https://www.nfa.cz/resource/claim/a36ad246-073c-4b8d-9935-9912f8e5098f>,
+        <https://www.nfa.cz/resource/claim/d273914e-367a-4889-841f-ee4a7e5b64c4> .
+
+<https://www.nfa.cz/resource/agent/4f88ff78-b7df-433b-aad4-deb3dc07c3fb> ns2:claim <https://www.nfa.cz/resource/claim/0ee36be0-34b0-4305-8116-19c823ad3ca8>,
+        <https://www.nfa.cz/resource/claim/27d5150f-45d1-40f9-ae36-832f23db4fdd>,
+        <https://www.nfa.cz/resource/claim/9933381a-9839-415a-9193-0f35ba4a608a> .
+
+<https://www.nfa.cz/resource/agent/5c70f110-9f8c-4d98-906f-d4b05f486a19> ns2:claim <https://www.nfa.cz/resource/claim/2002d07d-c65f-4493-9eea-7c8441a75a79>,
+        <https://www.nfa.cz/resource/claim/c4df6617-2210-457a-95eb-79b4267e926d>,
+        <https://www.nfa.cz/resource/claim/c63c22fb-689a-40ab-9fa3-cc206aced223> .
+
+<https://www.nfa.cz/resource/agent/6534dc80-8793-44c6-8f77-66f56bf72577> ns2:claim <https://www.nfa.cz/resource/claim/07c9fa22-376a-4afb-872d-f41fd3b7290e>,
+        <https://www.nfa.cz/resource/claim/237f0278-b826-4a15-b004-75032f21fd22>,
+        <https://www.nfa.cz/resource/claim/9126b9e6-37b4-489b-93e8-81824d0b4ae5> .
+
+<https://www.nfa.cz/resource/agent/67c571ae-39c9-4c6c-9fbd-927ad25ccabc> ns2:claim <https://www.nfa.cz/resource/claim/a07995c7-9fc9-4679-87e9-ae84a11f12d0>,
+        <https://www.nfa.cz/resource/claim/b45d3547-beeb-4973-8632-cf7158cd402c>,
+        <https://www.nfa.cz/resource/claim/c06162f9-1f8a-4a67-a32c-f6941f0970d3> .
+
+<https://www.nfa.cz/resource/agent/6a9f8248-3263-40ad-815f-5b64bc8c1e85> ns2:claim <https://www.nfa.cz/resource/claim/2abfd49e-e292-484b-855e-d0e88726c7e7>,
+        <https://www.nfa.cz/resource/claim/3daf1c5b-4e67-45d0-add1-23e5ac66a06e>,
+        <https://www.nfa.cz/resource/claim/ae33494d-221b-4a80-ac4b-274ad258ab9a> .
+
+<https://www.nfa.cz/resource/agent/6b828b7b-decd-4e0d-b36b-b0c6e3a5c917> ns2:claim <https://www.nfa.cz/resource/claim/643c6436-ab26-4e3b-a8ff-548f91633134>,
+        <https://www.nfa.cz/resource/claim/a6cc0328-601e-4b68-8526-903162c05398>,
+        <https://www.nfa.cz/resource/claim/be2588b8-7469-4cb7-bdd6-d1c96f14c56d> .
+
+<https://www.nfa.cz/resource/agent/6d342794-693d-4060-ba9d-4b2c39cf01b3> ns2:claim <https://www.nfa.cz/resource/claim/2a73bdcf-7182-49f2-88c6-c09cb062c3ba>,
+        <https://www.nfa.cz/resource/claim/c9e95705-493c-41b6-8f13-942708789141>,
+        <https://www.nfa.cz/resource/claim/f5a97a62-60e9-40a2-8d8c-89172a47b54e> .
+
+<https://www.nfa.cz/resource/agent/80a1c739-6b1d-4be7-acc5-37bf2b66d3be> ns2:claim <https://www.nfa.cz/resource/claim/3733eb26-1fcd-4539-b208-0eb4a1e5b1b6>,
+        <https://www.nfa.cz/resource/claim/6f2be89a-0a5d-4529-b5ca-0ed4dc28f307>,
+        <https://www.nfa.cz/resource/claim/9666ee62-4352-4c7a-8a5b-da6afa11c6af> .
+
+<https://www.nfa.cz/resource/agent/aad06d9f-1d8a-47f1-b383-dc39f4469957> ns2:claim <https://www.nfa.cz/resource/claim/0c31a551-dab5-4166-bbe2-d59b6a0cf6ba>,
+        <https://www.nfa.cz/resource/claim/6357bb61-fb86-46ec-8716-af4d0614a627>,
+        <https://www.nfa.cz/resource/claim/7f65f435-fd3f-4c2a-a5e5-fb44859120e5> .
+
+<https://www.nfa.cz/resource/agent/bc2e273e-efda-40f7-9de6-34930478385b> ns2:claim <https://www.nfa.cz/resource/claim/004c9ca3-d138-4699-b8e0-4da1988d8380>,
+        <https://www.nfa.cz/resource/claim/0f69d138-6dc1-4b9b-922e-b493a250f32a>,
+        <https://www.nfa.cz/resource/claim/2cef9253-22de-4204-83a5-a020084059dc> .
+
+<https://www.nfa.cz/resource/agent/c5038055-67b9-4f1f-93b9-9cf8a1d34744> ns2:claim <https://www.nfa.cz/resource/claim/60a5cac1-ec1d-41ad-8fcb-fa9ec0cb1b1a>,
+        <https://www.nfa.cz/resource/claim/7cbf6f43-3273-4ca1-bda2-d82b212fbedd>,
+        <https://www.nfa.cz/resource/claim/ac5e7a38-8a28-45ed-8bfd-45ccab40541a> .
+
+<https://www.nfa.cz/resource/agent/c5591ae8-500b-4a46-9349-a6512ef8bb07> ns2:claim <https://www.nfa.cz/resource/claim/08fc3c02-dbd5-4816-be53-6b97d6ed7479>,
+        <https://www.nfa.cz/resource/claim/3f759920-e65d-43c1-9638-fa8f3b2f82f5>,
+        <https://www.nfa.cz/resource/claim/5bf5ae02-8af1-43d7-b56d-9d7ee23dff31> .
+
+<https://www.nfa.cz/resource/agent/c86b10b5-f6a7-4ab9-a529-f56324051c12> ns2:claim <https://www.nfa.cz/resource/claim/8817f8de-5abd-4ce0-a708-cd556dd9d38f>,
+        <https://www.nfa.cz/resource/claim/88600afe-56d9-4963-bb58-f823daef11a1>,
+        <https://www.nfa.cz/resource/claim/ff3aee4e-78a8-4893-9bda-6b301d442b55> .
+
+<https://www.nfa.cz/resource/agent/d3812b7c-3bc5-4fed-8b04-d2ee294713bb> ns2:claim <https://www.nfa.cz/resource/claim/6ac7a882-3ba4-418d-a576-9455d7ef2e8b>,
+        <https://www.nfa.cz/resource/claim/8791a205-e59d-4593-badc-23abc96f4b45>,
+        <https://www.nfa.cz/resource/claim/dd4d9f42-9bc3-4056-89cd-2610f116e557> .
+
+<https://www.nfa.cz/resource/agent/d7158dec-a0eb-4b66-9bd0-bbea45e9d3f9> ns2:claim <https://www.nfa.cz/resource/claim/15d4e048-1341-43ce-967f-de7051ab4e47>,
+        <https://www.nfa.cz/resource/claim/6df5c1bd-5214-4776-9f44-1d762d771dc1>,
+        <https://www.nfa.cz/resource/claim/ffb94133-24c1-4224-a8aa-12295ec50280> .
+
+<https://www.nfa.cz/resource/agent/d7b24d1f-cb9d-4562-8c24-ded9f7e112bd> ns2:claim <https://www.nfa.cz/resource/claim/11983bfb-70f1-41d7-b0ff-2ddb8f61d764>,
+        <https://www.nfa.cz/resource/claim/47ec0c7b-72f5-4233-a017-c678206d72c2>,
+        <https://www.nfa.cz/resource/claim/d3f655a3-4dde-4b9a-97a1-68a85a28500a> .
+
+<https://www.nfa.cz/resource/agent/da2961b4-ef1c-4299-aa86-1644c00f8fba> ns2:claim <https://www.nfa.cz/resource/claim/1f796f81-f45d-4ba6-a7d2-70b12c4a23e6>,
+        <https://www.nfa.cz/resource/claim/429e2b42-42a8-4c7e-bcdc-2f179330cb98>,
+        <https://www.nfa.cz/resource/claim/6585046a-ebea-433e-b448-43e423bcd5a4> .
+
+<https://www.nfa.cz/resource/agent/dda84f74-34e0-4586-bf54-03e9a2eaa576> ns2:claim <https://www.nfa.cz/resource/claim/165569df-0e81-479b-a610-7cc231172c8d>,
+        <https://www.nfa.cz/resource/claim/b5378c02-6b26-4e50-87ec-e6082998e717>,
+        <https://www.nfa.cz/resource/claim/e6b51221-1a21-4cbd-8a21-b5c316b7f88a> .
+
+<https://www.nfa.cz/resource/agent/e2bf4f0e-4ca4-4cea-af33-01889fdc6a3a> ns2:claim <https://www.nfa.cz/resource/claim/5aa8e757-bf7b-4038-a23d-a1ecb6ba98d6>,
+        <https://www.nfa.cz/resource/claim/979978c1-c50a-45ff-9235-6e4040f10850>,
+        <https://www.nfa.cz/resource/claim/c6779c95-1193-4a35-a148-4e9537388951> .
+
+<https://www.nfa.cz/resource/agent/f59fc91b-eee4-4d07-905a-3b42243ae7ef> ns2:claim <https://www.nfa.cz/resource/claim/3939ecc7-1c4c-48a7-91cf-9f30fa1efb7f>,
+        <https://www.nfa.cz/resource/claim/49a25ea4-d2ff-4934-9002-dbe1be2476e3>,
+        <https://www.nfa.cz/resource/claim/af2f93d9-ee60-4b33-916e-49dacb9fd6a8> .
+
+<https://www.nfa.cz/resource/claim/0039873e-e6ce-4fc2-ab1e-24c96c975338> ns2:qualifier <https://www.nfa.cz/resource/qualifier/5e990570-4539-47a4-9837-8ee0fc0bc3f1>,
+        <https://www.nfa.cz/resource/qualifier/deb0dce6-7acc-4e18-a816-606dc6719664> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/452176d0-bfb7-4f02-b888-f2860e4c56db> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/dda84f74-34e0-4586-bf54-03e9a2eaa576> .
+
+<https://www.nfa.cz/resource/claim/00427f73-9b7f-40ee-ae13-da8917ac21c0> ns2:qualifier <https://www.nfa.cz/resource/qualifier/3639241c-744f-4983-8483-3a4d62a15357>,
+        <https://www.nfa.cz/resource/qualifier/a19454c8-fc08-4f41-b89e-7195e5ef1327> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/ca6776dc-2011-4dbb-abb3-46603ba32263> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/c5591ae8-500b-4a46-9349-a6512ef8bb07> .
+
+<https://www.nfa.cz/resource/claim/004c9ca3-d138-4699-b8e0-4da1988d8380> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/021bbb15-5414-4e9f-b5d8-457ddc9c6cb7> ns2:qualifier <https://www.nfa.cz/resource/qualifier/84baa322-eeb4-4e83-a20e-3d677b3cfec7> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/c06a50cf-812e-43ef-9c4a-d47aaeb5c2d1> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/aad06d9f-1d8a-47f1-b383-dc39f4469957> .
+
+<https://www.nfa.cz/resource/claim/037ce3df-4117-4217-8607-82e2e3d1861a> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/057daa89-bdb5-401e-9575-085b6d811cc6> ns1:instance_of <https://www.fiafnet.org/ontology/item/work> .
+
+<https://www.nfa.cz/resource/claim/07c9fa22-376a-4afb-872d-f41fd3b7290e> ns2:reference <https://www.nfa.cz/resource/reference/e85121bc-ebb3-4374-9b48-891da47019ce> ;
+    ns1:surname "Torrence" .
+
+<https://www.nfa.cz/resource/claim/08fc3c02-dbd5-4816-be53-6b97d6ed7479> ns2:reference <https://www.nfa.cz/resource/reference/e0d677f6-614d-4f53-9bd5-9c468bcce99d> ;
+    ns1:forename "Edward" .
+
+<https://www.nfa.cz/resource/claim/0b606901-cba5-4bb2-ac19-7a9fb5521e99> ns2:qualifier <https://www.nfa.cz/resource/qualifier/3d4518f6-9f99-4249-8d1f-ef0cf788571c>,
+        <https://www.nfa.cz/resource/qualifier/5a1db6d4-99e3-4aaa-b52d-cc037af32421> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/82dd547c-a6ff-4467-a043-6bf4436d4d7a> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/6b828b7b-decd-4e0d-b36b-b0c6e3a5c917> .
+
+<https://www.nfa.cz/resource/claim/0c31a551-dab5-4166-bbe2-d59b6a0cf6ba> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/0d95b7f6-5f89-4abc-a8d8-eb3b32dd94d6> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/0ee36be0-34b0-4305-8116-19c823ad3ca8> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/0f3fa45c-2106-47d7-8b5c-ebedff8f3c16> ns2:qualifier <https://www.nfa.cz/resource/qualifier/a80f9561-98d4-49be-ae6b-c8ecb27e354e>,
+        <https://www.nfa.cz/resource/qualifier/b66dab75-227b-4816-a11d-ccc245fe7635> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/9c0ccdbe-0812-46b0-ab2e-e800974e4117> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/0fb4cfb1-3d96-45f7-873f-d22ac2919596> .
+
+<https://www.nfa.cz/resource/claim/0f428a49-a1a0-4d16-99cb-650043fe78af> ns2:qualifier <https://www.nfa.cz/resource/qualifier/9bf47e52-73ba-4f3c-ab67-febddf1bced0>,
+        <https://www.nfa.cz/resource/qualifier/c34f28af-cbe6-4874-9e23-497d4f702a21> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/7865643f-256f-4b95-ad86-a7d1d481b95f> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/e2bf4f0e-4ca4-4cea-af33-01889fdc6a3a> .
+
+<https://www.nfa.cz/resource/claim/0f69d138-6dc1-4b9b-922e-b493a250f32a> ns2:reference <https://www.nfa.cz/resource/reference/557e7282-00de-4b5f-8ba9-6b6c011e7e1f> ;
+    ns1:surname "Alexander" .
+
+<https://www.nfa.cz/resource/claim/1052d90a-eb88-42e9-b40b-0cee1ab996d0> ns2:qualifier <https://www.nfa.cz/resource/qualifier/113b1882-afe0-40a4-8780-e7a5253ee739>,
+        <https://www.nfa.cz/resource/qualifier/3c78a229-135d-4d52-af23-8bd707884483> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/e89cb29a-9f41-4a62-9030-654bc444fb1f> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/3cdd23d9-c38c-4c3a-9262-4e4a36e10703> .
+
+<https://www.nfa.cz/resource/claim/11983bfb-70f1-41d7-b0ff-2ddb8f61d764> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/15d4e048-1341-43ce-967f-de7051ab4e47> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/163c3962-5acd-4506-9ca7-def1eebe9c28> ns1:instance_of <https://www.fiafnet.org/ontology/item/holding_institution> .
+
+<https://www.nfa.cz/resource/claim/165569df-0e81-479b-a610-7cc231172c8d> ns2:reference <https://www.nfa.cz/resource/reference/97028d1b-04b9-4cbb-bdbd-68d63a10fc8b> ;
+    ns1:forename "Mark" .
+
+<https://www.nfa.cz/resource/claim/181468aa-29ee-4815-8f0a-31e5c2f6c6d6> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/1a137c5e-4d32-44e0-9f10-f269eabea553> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/1c4c24e5-9a57-404b-b26b-0e0b0f8daee7> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/1e68f0f5-755e-4a7b-8c2b-ed4aa3747399> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.nfa.cz/resource/claim/1f6f2a31-5c5e-4bef-8ad4-3c6862a8be0f> ns2:reference <https://www.nfa.cz/resource/reference/ebe176c3-723c-41fe-897e-d5dd79536542> ;
+    ns1:forename "Guinn \"Big Boy\"" .
+
+<https://www.nfa.cz/resource/claim/1f796f81-f45d-4ba6-a7d2-70b12c4a23e6> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/2002d07d-c65f-4493-9eea-7c8441a75a79> ns2:reference <https://www.nfa.cz/resource/reference/31af7399-6033-4eb8-b272-7a9a95d6685c> ;
+    ns1:surname "Boland" .
+
+<https://www.nfa.cz/resource/claim/2046730e-bb92-470d-87b0-969b009452c2> ns2:qualifier <https://www.nfa.cz/resource/qualifier/4ec6d557-c8a1-4747-973a-61d0f2db631d> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/6872e795-bbbd-446e-9f4f-7b9b46b89a28> ;
+    ns1:title "City Girl" .
+
+<https://www.nfa.cz/resource/claim/237f0278-b826-4a15-b004-75032f21fd22> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/268b804e-7a8a-44f7-b89f-e0833e4fe507> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/27d5150f-45d1-40f9-ae36-832f23db4fdd> ns2:reference <https://www.nfa.cz/resource/reference/0ea0b417-13b8-48da-912e-4a655e844122> ;
+    ns1:forename "Jack" .
+
+<https://www.nfa.cz/resource/claim/2a73bdcf-7182-49f2-88c6-c09cb062c3ba> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/2abfd49e-e292-484b-855e-d0e88726c7e7> ns2:reference <https://www.nfa.cz/resource/reference/ac3d6109-ef1c-4096-8ca6-5e0969522c7d> ;
+    ns1:forename "Arthur" .
+
+<https://www.nfa.cz/resource/claim/2c9dff0f-124d-4149-971d-5acfce28bac9> ns2:qualifier <https://www.nfa.cz/resource/qualifier/7fb1c913-3c13-4b2b-8fc7-3fe718429245> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/1f50b392-4863-4223-bdcc-9e82dec797f5> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/c5038055-67b9-4f1f-93b9-9cf8a1d34744> .
+
+<https://www.nfa.cz/resource/claim/2cef9253-22de-4204-83a5-a020084059dc> ns2:reference <https://www.nfa.cz/resource/reference/35cf6180-fd86-4f11-b5c8-efff63599c49> ;
+    ns1:forename "Dick" .
+
+<https://www.nfa.cz/resource/claim/2cff6e4d-cdf7-45f8-843f-5e221899d46f> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/2eedfbd3-125a-43e1-9bdf-c326b7ca5b0e> ns2:reference <https://www.nfa.cz/resource/reference/55ac0d68-738e-4b42-a73a-282fc81f90e7> ;
+    ns1:surname "Farrell" .
+
+<https://www.nfa.cz/resource/claim/2f9cd72d-3f3b-425a-9ada-f3cbbc165c2c> ns2:reference <https://www.nfa.cz/resource/reference/16a8a414-b09b-47af-b420-9b36b8387c47> ;
+    ns1:forename "Dawn" .
+
+<https://www.nfa.cz/resource/claim/34d5ef55-69aa-47b3-abdf-f5e654f21d43> ns2:qualifier <https://www.nfa.cz/resource/qualifier/7439678b-b7c4-4f42-852c-0f21bda255c9>,
+        <https://www.nfa.cz/resource/qualifier/9334946a-b3ef-4bf1-b080-f8e3f08e5c2f> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/66d676c3-d253-4124-8fa8-a472c989ec51> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/3431cf50-d533-4719-b9c2-80542e3466d4> .
+
+<https://www.nfa.cz/resource/claim/3733eb26-1fcd-4539-b208-0eb4a1e5b1b6> ns2:reference <https://www.nfa.cz/resource/reference/f4060d03-e9e3-484e-9a58-9559929f56a1> ;
+    ns1:forename "Roscoe" .
+
+<https://www.nfa.cz/resource/claim/3906cfcc-7bb2-4fc5-bbcf-30bffa21e4f1> ns2:reference <https://www.nfa.cz/resource/reference/948ece89-2c8f-4933-807a-7a926fb4d0ca> ;
+    ns1:forename "Helen" .
+
+<https://www.nfa.cz/resource/claim/3939ecc7-1c4c-48a7-91cf-9f30fa1efb7f> ns2:reference <https://www.nfa.cz/resource/reference/9bd890b8-a841-4f63-9254-c6d6831a36d4> ;
+    ns1:surname "Orth" .
+
+<https://www.nfa.cz/resource/claim/3aad53b8-0606-4e4e-a62e-7ceb48c13c11> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/3b10f9be-d729-47e5-abd8-7e70a4897d27> ns2:qualifier <https://www.nfa.cz/resource/qualifier/58ea94aa-d86e-4a95-97d2-9e63999e5297> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/00169922-d51f-4e65-93d8-3812d3cc3d17> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/67c571ae-39c9-4c6c-9fbd-927ad25ccabc> .
+
+<https://www.nfa.cz/resource/claim/3c4e6203-af19-43e1-acde-4c861051ab5f> ns2:reference <https://www.nfa.cz/resource/reference/caaa7405-ac85-4aad-975f-f34dfc83d2e0> ;
+    ns1:surname "Bureen" .
+
+<https://www.nfa.cz/resource/claim/3c57dce1-8ca2-4196-8a56-687c258a740b> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/3daf1c5b-4e67-45d0-add1-23e5ac66a06e> ns2:reference <https://www.nfa.cz/resource/reference/0179496c-72e4-40eb-af09-75953d9c3e7f> ;
+    ns1:surname "Kay" .
+
+<https://www.nfa.cz/resource/claim/3e001fb4-6c3e-4ac2-9117-2d7d3e5da270> ns2:qualifier <https://www.nfa.cz/resource/qualifier/6fe4d1f3-0173-4816-bfdd-198b40e0cb7d>,
+        <https://www.nfa.cz/resource/qualifier/f4303fc9-2d91-4ebd-82c4-6009340ed408> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/ec8283d7-134f-4243-8c6f-100196d58a2e> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/80a1c739-6b1d-4be7-acc5-37bf2b66d3be> .
+
+<https://www.nfa.cz/resource/claim/3ec78bee-5109-4950-857f-2bdc86eb042a> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/3f759920-e65d-43c1-9638-fa8f3b2f82f5> ns2:reference <https://www.nfa.cz/resource/reference/a75bd5d0-5354-41a4-9000-20ac75f01fdc> ;
+    ns1:surname "Brady" .
+
+<https://www.nfa.cz/resource/claim/429e2b42-42a8-4c7e-bcdc-2f179330cb98> ns2:reference <https://www.nfa.cz/resource/reference/27323022-7113-47c1-a75f-a40f2843f911> ;
+    ns1:forename "Arnold" .
+
+<https://www.nfa.cz/resource/claim/42d1edcc-b64b-49ea-b1ff-83333c8dcdc8> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/4630e62a-a13b-432d-a31c-1959ad99a19a> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/47ec0c7b-72f5-4233-a017-c678206d72c2> ns2:reference <https://www.nfa.cz/resource/reference/869b9b0a-a3a9-4783-b86f-ea9b956ddcde> ;
+    ns1:surname "Leonard" .
+
+<https://www.nfa.cz/resource/claim/49a25ea4-d2ff-4934-9002-dbe1be2476e3> ns2:reference <https://www.nfa.cz/resource/reference/e7de43ea-2900-4480-a574-fb0447ff65c5> ;
+    ns1:forename "Marion" .
+
+<https://www.nfa.cz/resource/claim/4f5edf2c-b01c-486f-9201-d1bba2d2a95a> ns2:reference <https://www.nfa.cz/resource/reference/a720f4bb-1172-464e-8fd9-ee7ba6e376bc> ;
+    ns1:surname "Ericson" .
+
+<https://www.nfa.cz/resource/claim/50353104-ae5e-4518-b116-5c1caeab1726> ns2:reference <https://www.nfa.cz/resource/reference/a0ddd39d-429a-4cd5-a7a7-81aed61b0121> ;
+    ns1:surname "O'Day" .
+
+<https://www.nfa.cz/resource/claim/5157422f-5e2b-43de-97e8-079dabfd8908> ns2:reference <https://www.nfa.cz/resource/reference/202a693e-9357-49a2-9498-d2dc21c2c18f> ;
+    ns1:surname "Lynch" .
+
+<https://www.nfa.cz/resource/claim/530c17ed-f678-422f-8ac0-e3203f95764c> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/5aa8e757-bf7b-4038-a23d-a1ecb6ba98d6> ns2:reference <https://www.nfa.cz/resource/reference/891dd5e2-572a-49f2-b49a-80810af8631a> ;
+    ns1:forename "Mary" .
+
+<https://www.nfa.cz/resource/claim/5bf5ae02-8af1-43d7-b56d-9d7ee23dff31> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/5e61ec19-21e7-466b-b81c-101393b6289f> ns2:qualifier <https://www.nfa.cz/resource/qualifier/91c5f4e2-e662-4424-928b-6c93ab9ff31f> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/fd3e1a8a-c638-4f87-9822-8b988b5e667a> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/271706b4-97e3-47d5-992d-55e2279d9add> .
+
+<https://www.nfa.cz/resource/claim/60a5cac1-ec1d-41ad-8fcb-fa9ec0cb1b1a> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/61a2e501-1c1b-479f-a104-5c4bc2f0bb48> ns2:reference <https://www.nfa.cz/resource/reference/42677772-1eed-4cbb-99d0-e839292b7e36> ;
+    ns1:forename "Charles" .
+
+<https://www.nfa.cz/resource/claim/620f253f-87a6-469d-ae72-bcfad355087c> ns2:reference <https://www.nfa.cz/resource/reference/f45cb5e9-1cc0-4ed3-b928-bc0f7d921731> ;
+    ns1:surname "Beebe" .
+
+<https://www.nfa.cz/resource/claim/6357bb61-fb86-46ec-8716-af4d0614a627> ns2:reference <https://www.nfa.cz/resource/reference/f161aed9-52f2-4d26-b469-03d1e7bf9519> ;
+    ns1:forename "Harry" .
+
+<https://www.nfa.cz/resource/claim/643c6436-ab26-4e3b-a8ff-548f91633134> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/6585046a-ebea-433e-b448-43e423bcd5a4> ns2:reference <https://www.nfa.cz/resource/reference/e365aa2a-4462-4221-8939-5f9765a1261f> ;
+    ns1:surname "Lucy" .
+
+<https://www.nfa.cz/resource/claim/6950f1be-64c2-4a31-aff2-8df4b4733c92> ns2:reference <https://www.nfa.cz/resource/reference/9191be48-7153-417f-b627-7a57cf17288b> ;
+    ns1:forename "Pat" .
+
+<https://www.nfa.cz/resource/claim/6ac7a882-3ba4-418d-a576-9455d7ef2e8b> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/6b044c9d-a755-4839-a538-69a7f2d6a9a2> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.nfa.cz/resource/claim/6df5c1bd-5214-4776-9f44-1d762d771dc1> ns2:reference <https://www.nfa.cz/resource/reference/b31c609d-7eb0-4117-80e0-2ee09017035d> ;
+    ns1:forename "Ernest" .
+
+<https://www.nfa.cz/resource/claim/6f0a57b9-a4e8-4517-afaf-28795de80282> ns2:qualifier <https://www.nfa.cz/resource/qualifier/09a6f809-74e5-4bec-96cd-8974eba488d2> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/07c2244a-149a-483b-89f8-e3695ba7b3e9> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/4b0c35ae-6099-4959-a8c6-d333ef5894ce> .
+
+<https://www.nfa.cz/resource/claim/6f2be89a-0a5d-4529-b5ca-0ed4dc28f307> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/79324bad-6e1f-4ae5-8361-d9e32e902f08> ns2:qualifier <https://www.nfa.cz/resource/qualifier/a0a7e908-0e81-4aa6-9208-e88e10a17fd2> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/14702fb5-3b52-4109-a3c9-6775e8b98cc1> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/19761186-084e-40b0-a442-7f7788f6b85c> .
+
+<https://www.nfa.cz/resource/claim/7cbf6f43-3273-4ca1-bda2-d82b212fbedd> ns2:reference <https://www.nfa.cz/resource/reference/4981358e-8e83-486d-bbc1-a2aac1ab0b56> ;
+    ns1:forename "William" .
+
+<https://www.nfa.cz/resource/claim/7f65f435-fd3f-4c2a-a5e5-fb44859120e5> ns2:reference <https://www.nfa.cz/resource/reference/e74eb206-6567-49e9-a8f5-8efe9ebe4dc2> ;
+    ns1:surname "Gripp" .
+
+<https://www.nfa.cz/resource/claim/8004b3de-1926-4d8f-bdea-97ffbda4f8f2> ns2:qualifier <https://www.nfa.cz/resource/qualifier/c87d63c7-a9d4-430a-8f3e-16d2abbf48a2> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/83ad4d93-5ee1-4b06-8d04-10f902a3db6b> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/11fe3b0f-a32e-4790-866b-5ac1232f6d5b> .
+
+<https://www.nfa.cz/resource/claim/8377e279-e007-4a68-9095-fdb2f0d2d5ca> ns2:reference <https://www.nfa.cz/resource/reference/6d8528fc-00a5-47e0-844d-f442204d763f> ;
+    ns1:forename "Ivan" .
+
+<https://www.nfa.cz/resource/claim/8791a205-e59d-4593-badc-23abc96f4b45> ns2:reference <https://www.nfa.cz/resource/reference/b3a1362e-a44a-4025-af8d-75eef2c7412f> ;
+    ns1:surname "Murnau" .
+
+<https://www.nfa.cz/resource/claim/8817f8de-5abd-4ce0-a708-cd556dd9d38f> ns2:reference <https://www.nfa.cz/resource/reference/56511c8e-77be-4959-b89c-a4b1fb911d17> ;
+    ns1:forename "Werner" .
+
+<https://www.nfa.cz/resource/claim/8836dc09-a390-4db7-886a-52ba3b456b79> ns2:qualifier <https://www.nfa.cz/resource/qualifier/82b8a3c4-4245-41b3-8e85-f5d3f92d0188> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/ebbf5f6c-b51f-4421-a467-10c5f72109c6> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/409be4a3-35e0-4ea7-936e-e821eae239ba> .
+
+<https://www.nfa.cz/resource/claim/88600afe-56d9-4963-bb58-f823daef11a1> ns2:reference <https://www.nfa.cz/resource/reference/f213284e-3398-4989-8e1a-b035d827c76e> ;
+    ns1:surname "Klinger" .
+
+<https://www.nfa.cz/resource/claim/8db22660-2f02-4d6d-a649-a2caaf742902> ns2:reference <https://www.nfa.cz/resource/reference/336e9ce4-039c-493b-978f-4fb51a15f972> ;
+    ns1:forename "Lester" .
+
+<https://www.nfa.cz/resource/claim/8e91bc12-e80f-4c76-951d-4ff6664820b2> ns2:reference <https://www.nfa.cz/resource/reference/9130747a-04ac-4dab-9092-f55ad0d86935> ;
+    ns1:surname "Clay" .
+
+<https://www.nfa.cz/resource/claim/8efb7320-f23a-4402-9b85-0c024e7be83f> ns2:qualifier <https://www.nfa.cz/resource/qualifier/3984b9c5-e3e9-4dcb-ba65-9d8e779a62de> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/9049e580-f171-4dbd-9a40-8c9c841fa3eb> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/d3812b7c-3bc5-4fed-8b04-d2ee294713bb> .
+
+<https://www.nfa.cz/resource/claim/90cef3e9-f19d-4a64-befc-b00742cf9d18> ns2:reference <https://www.nfa.cz/resource/reference/92043de1-586b-4eeb-9708-b235cc40ffd7> ;
+    ns1:forename "Marjorie" .
+
+<https://www.nfa.cz/resource/claim/9126b9e6-37b4-489b-93e8-81824d0b4ae5> ns2:reference <https://www.nfa.cz/resource/reference/35c6fa5f-02f5-4e49-9b5d-72d438a22685> ;
+    ns1:forename "David" .
+
+<https://www.nfa.cz/resource/claim/91813685-9ae6-4888-bcc0-04b7dab0af10> ns2:reference <https://www.nfa.cz/resource/reference/8dbc1e09-c5a1-47a8-935c-828deb90abe6> ;
+    ns1:surname "Elliott" .
+
+<https://www.nfa.cz/resource/claim/9666ee62-4352-4c7a-8a5b-da6afa11c6af> ns2:reference <https://www.nfa.cz/resource/reference/2563bbcc-98aa-4c2a-9d10-381e1b98ce61> ;
+    ns1:surname "Ates" .
+
+<https://www.nfa.cz/resource/claim/979978c1-c50a-45ff-9235-6e4040f10850> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/98c1a2dd-3958-46fb-8dd9-621caafa0534> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/98f10331-4967-4c6b-9eb4-2e2b7715429e> ns3:nfa_work_id "0200640" .
+
+<https://www.nfa.cz/resource/claim/9933381a-9839-415a-9193-0f35ba4a608a> ns2:reference <https://www.nfa.cz/resource/reference/e45f27f0-b926-4038-b189-9cdbff23e9b7> ;
+    ns1:surname "Pannick" .
+
+<https://www.nfa.cz/resource/claim/9b61d12e-88e9-4f22-836b-d74887f5097f> ns2:reference <https://www.nfa.cz/resource/reference/b1b0ceb6-ac75-49ec-990c-949aa9c09c13> ;
+    ns1:forename "Ed" .
+
+<https://www.nfa.cz/resource/claim/9e926ebd-5a2b-4e62-aedb-0e9379991078> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/9f91fe60-350f-49a5-8139-32fb3314672c> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/a07995c7-9fc9-4679-87e9-ae84a11f12d0> ns2:reference <https://www.nfa.cz/resource/reference/057f7216-acc7-46be-8a88-52e562c6a605> ;
+    ns1:forename "Joe" .
+
+<https://www.nfa.cz/resource/claim/a2a9c27a-6ac4-4d0a-a2d6-5fe80e8de2f0> ns1:instance_of <https://www.fiafnet.org/ontology/item/title_type> .
+
+<https://www.nfa.cz/resource/claim/a36ad246-073c-4b8d-9935-9912f8e5098f> ns2:reference <https://www.nfa.cz/resource/reference/15065812-0d11-4c90-b499-2d3faece91c0> ;
+    ns1:surname "Viertel" .
+
+<https://www.nfa.cz/resource/claim/a4d476ec-614d-4946-a66f-bb5c151cd142> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/a68c6d39-6c7a-4ff7-bba8-9752b09b5a47> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/a6a30dfb-a2a5-4e63-9b00-cf436ae3b17c> ns2:reference <https://www.nfa.cz/resource/reference/98da6681-8210-4b5e-ad72-5d725f9c200a> ;
+    ns1:forename "A.H.Van" .
+
+<https://www.nfa.cz/resource/claim/a6cc0328-601e-4b68-8526-903162c05398> ns2:reference <https://www.nfa.cz/resource/reference/9f4c9501-e1a6-4e99-891b-f551290c0d3a> ;
+    ns1:surname "Yorke" .
+
+<https://www.nfa.cz/resource/claim/a9c39dfc-9f27-453c-b010-712fcc9bdfd0> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/a9e8afa4-00ac-4e4a-b4ca-a9dc2f8a8064> ns2:reference <https://www.nfa.cz/resource/reference/4c64e797-9ac1-4dc9-adac-95c9fa646ab8> ;
+    ns1:surname "Williams" .
+
+<https://www.nfa.cz/resource/claim/ac5e7a38-8a28-45ed-8bfd-45ccab40541a> ns2:reference <https://www.nfa.cz/resource/reference/1bcb9c8a-fa4e-49a4-9b93-6831e5348700> ;
+    ns1:surname "Sundholm" .
+
+<https://www.nfa.cz/resource/claim/ad06a914-97e4-4f6b-bfe7-4fcf7cf94bc8> ns2:qualifier <https://www.nfa.cz/resource/qualifier/53af45bb-be88-4fab-9c21-1f4329ba97fd> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/2e007549-d95f-43e1-8e59-1d87fbe8c18d> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/d7b24d1f-cb9d-4562-8c24-ded9f7e112bd> .
+
+<https://www.nfa.cz/resource/claim/ad869076-9b7c-4962-b494-89914cced98d> ns2:qualifier <https://www.nfa.cz/resource/qualifier/6fff138d-aa8b-4b58-b9e7-4b156aee69ee> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/cabd5fc7-7b3d-43de-9c98-c1d6bfa4f753> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/18f67af5-be2b-46a2-b237-8311cd88e7e2> .
+
+<https://www.nfa.cz/resource/claim/ae33494d-221b-4a80-ac4b-274ad258ab9a> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/af2f93d9-ee60-4b33-916e-49dacb9fd6a8> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/b45d3547-beeb-4973-8632-cf7158cd402c> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/b5378c02-6b26-4e50-87ec-e6082998e717> ns2:reference <https://www.nfa.cz/resource/reference/674727a7-e3c1-4966-b0c9-059ed0445a3b> ;
+    ns1:surname "Hamilton" .
+
+<https://www.nfa.cz/resource/claim/b877adf3-8d33-4b5a-9846-2faa58dce018> ns2:qualifier <https://www.nfa.cz/resource/qualifier/8be683cc-b77c-426b-b198-7e6d50d39dfc> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/5ed3e719-e789-4b6d-b99a-efd8b284f0b8> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/c86b10b5-f6a7-4ab9-a529-f56324051c12> .
+
+<https://www.nfa.cz/resource/claim/bb1f4396-1c30-404a-89b8-ca2a33a2eeb3> ns2:qualifier <https://www.nfa.cz/resource/qualifier/62d5515c-b1b2-44d2-a093-978a5882fa36>,
+        <https://www.nfa.cz/resource/qualifier/d7b9274e-256b-41c4-8d5e-e02b0b78124d> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/121f0da9-04f8-458c-a929-d83a2f395cbd> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/bc2e273e-efda-40f7-9de6-34930478385b> .
+
+<https://www.nfa.cz/resource/claim/bc5e29f1-e650-4d5a-859e-2cec5409ffc4> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.nfa.cz/resource/claim/bc70a775-c465-40f2-accb-7f11e706e494> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/bc71e20b-472c-4343-b207-9b57884f2336> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/be2588b8-7469-4cb7-bdd6-d1c96f14c56d> ns2:reference <https://www.nfa.cz/resource/reference/8ef98388-9102-4d85-b962-a4760bf61af1> ;
+    ns1:forename "Edith" .
+
+<https://www.nfa.cz/resource/claim/bf0c0228-4a52-492d-bda0-bb90f28bb094> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.nfa.cz/resource/claim/c002ffea-b84b-460a-a48d-c9dd95e857c6> ns2:qualifier <https://www.nfa.cz/resource/qualifier/1a39d06c-0c4e-48f8-914b-ed99e13a27ac>,
+        <https://www.nfa.cz/resource/qualifier/3e57282b-d608-4ed1-a3c5-424887e693f8> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/1fadbd42-1a1e-496f-b88f-1d5d3a3c8608> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/4ab9b95e-6ea9-4d7f-83a4-fff14fa4dae9> .
+
+<https://www.nfa.cz/resource/claim/c06162f9-1f8a-4a67-a32c-f6941f0970d3> ns2:reference <https://www.nfa.cz/resource/reference/95646512-6d8f-4c12-9c22-e45452d49575> ;
+    ns1:surname "Brown" .
+
+<https://www.nfa.cz/resource/claim/c4df6617-2210-457a-95eb-79b4267e926d> ns2:reference <https://www.nfa.cz/resource/reference/9a7b17e3-3009-4075-bb0e-eb0e1c86642f> ;
+    ns1:forename "Eddie" .
+
+<https://www.nfa.cz/resource/claim/c6345f8b-ff56-4373-8f6c-777b9c7e41c0> ns2:qualifier <https://www.nfa.cz/resource/qualifier/f3bbf60b-8ab0-496c-b0b5-1448f35f0f95> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/b9635a42-935d-43e7-b201-150c68c7119b> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/6a9f8248-3263-40ad-815f-5b64bc8c1e85> .
+
+<https://www.nfa.cz/resource/claim/c63c22fb-689a-40ab-9fa3-cc206aced223> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/c6779c95-1193-4a35-a148-4e9537388951> ns2:reference <https://www.nfa.cz/resource/reference/9d8b88f7-8ed8-4f4d-ac09-1857a56f1580> ;
+    ns1:surname "Duncan" .
+
+<https://www.nfa.cz/resource/claim/c756d2cc-a6c1-47df-bf11-4a232ae12f3b> ns2:reference <https://www.nfa.cz/resource/reference/f7ec794b-6be3-431c-bbff-0823f74dc376> ;
+    ns1:surname "Linow" .
+
+<https://www.nfa.cz/resource/claim/c9c58aff-fce5-4319-a81a-6e158925cd5d> ns2:reference <https://www.nfa.cz/resource/reference/4edae991-0f75-4372-8939-76d5cd8b13c9> ;
+    ns1:forename "A.F.\"Buddy\"" .
+
+<https://www.nfa.cz/resource/claim/c9e95705-493c-41b6-8f13-942708789141> ns2:reference <https://www.nfa.cz/resource/reference/6598024b-578c-496c-b88b-62d4f11d8f17> ;
+    ns1:forename "Tom" .
+
+<https://www.nfa.cz/resource/claim/ca5652a6-2e07-4bc5-af64-e79eae54c995> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/d142d9d3-10ee-49bb-94cd-559cf0e8ad96> ns2:qualifier <https://www.nfa.cz/resource/qualifier/15e927f1-35f9-4bb6-b4fd-b6680a78ae15>,
+        <https://www.nfa.cz/resource/qualifier/2dd7fa9d-2d98-49a6-9e00-d25f883a7d44> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/9d12e70c-f660-4093-96c9-ab74e8c3481c> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/6d342794-693d-4060-ba9d-4b2c39cf01b3> .
+
+<https://www.nfa.cz/resource/claim/d273914e-367a-4889-841f-ee4a7e5b64c4> ns2:reference <https://www.nfa.cz/resource/reference/d0fd8315-d59a-4d05-b399-b56c096e86cf> ;
+    ns1:forename "Berthold" .
+
+<https://www.nfa.cz/resource/claim/d3275078-3baf-4e46-9d91-55a0cbeb4805> ns2:qualifier <https://www.nfa.cz/resource/qualifier/59c37dd1-79da-4e51-b3ff-6f9833baeb8d>,
+        <https://www.nfa.cz/resource/qualifier/ee801df5-3c19-4c40-b81f-fbc6d2e2ff55> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/b80f2e4e-0880-4891-b1f8-56350b44bf91> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/2fbbcf1b-d94e-4d84-b5af-dae6a598ab2f> .
+
+<https://www.nfa.cz/resource/claim/d36554f7-8f70-4be7-a6e8-d217b3c7d7d9> ns2:qualifier <https://www.nfa.cz/resource/qualifier/a6b9f157-56c2-45a2-9fde-afe2cea0a7d8>,
+        <https://www.nfa.cz/resource/qualifier/b6d351d9-e2ad-419b-b2dc-27908634f937> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/554f301d-0653-4d9e-89c8-dcab038200b5> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/075e62da-fc02-4581-9be1-dcac945b2c27> .
+
+<https://www.nfa.cz/resource/claim/d3f655a3-4dde-4b9a-97a1-68a85a28500a> ns2:reference <https://www.nfa.cz/resource/reference/32803250-6d74-4f04-ab32-41ca6f50a2a7> ;
+    ns1:forename "Harry" .
+
+<https://www.nfa.cz/resource/claim/d4afebf0-90eb-49c7-ac88-3efbc263cdcb> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/d9e6c95c-07d5-4602-bf96-707a5f4ea49c> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/dae0b7ee-a356-4ec1-a4fe-58ce33ca7560> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/dd4d9f42-9bc3-4056-89cd-2610f116e557> ns2:reference <https://www.nfa.cz/resource/reference/71f9633f-d2cb-4a60-bea5-23be6231145f> ;
+    ns1:forename "Friedrich Wilhelm" .
+
+<https://www.nfa.cz/resource/claim/e2dda9f6-37f6-4fb2-83c1-39e2cfde20e6> ns2:qualifier <https://www.nfa.cz/resource/qualifier/06800081-234e-49d7-86fc-ebad4ef49629> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/504bc0a6-ef21-42be-9012-a858f03324c7> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/f59fc91b-eee4-4d07-905a-3b42243ae7ef> .
+
+<https://www.nfa.cz/resource/claim/e3e2a8f2-bc0a-45eb-8834-a87d4ad65885> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/e4e83d82-f096-4fdc-b406-086425c79308> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/e54f56dd-8404-4e42-aa05-a3165a6f3a0c> ns1:instance_of <https://www.fiafnet.org/ontology/item/role> .
+
+<https://www.nfa.cz/resource/claim/e6b51221-1a21-4cbd-8a21-b5c316b7f88a> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/e83392c7-0757-4d3b-bb44-210c996d99dc> ns2:qualifier <https://www.nfa.cz/resource/qualifier/4dc73556-00ec-4d92-bdf8-77ba105e35fc>,
+        <https://www.nfa.cz/resource/qualifier/f8dddc7e-1894-44d5-991c-c886944b95e6> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/cbb0e4ad-4412-427d-b7f7-a043a53ba0f4> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/6534dc80-8793-44c6-8f77-66f56bf72577> .
+
+<https://www.nfa.cz/resource/claim/f00b6225-e5d2-4383-958c-17c394ddc389> ns2:qualifier <https://www.nfa.cz/resource/qualifier/212b6cd3-13e6-4d2d-8a78-8d764b318607> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/d5d0b2b5-d67c-4ce4-808c-68c6dff3ebdf> ;
+    ns1:agent_credit <https://www.nfa.cz/resource/agent/d7158dec-a0eb-4b66-9bd0-bbea45e9d3f9> .
+
+<https://www.nfa.cz/resource/claim/f5a97a62-60e9-40a2-8d8c-89172a47b54e> ns2:reference <https://www.nfa.cz/resource/reference/677f600d-212f-49ab-aa14-afcc2ff41fb8> ;
+    ns1:surname "Maguire" .
+
+<https://www.nfa.cz/resource/claim/f9027c6d-b3fd-4709-9b27-944e6938ed8c> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent_type> .
+
+<https://www.nfa.cz/resource/claim/f90be8c7-fc7a-4803-b6a0-c199da080dad> ns2:reference <https://www.nfa.cz/resource/reference/4717572b-a7c5-4e71-a40e-a124fb2dff90> ;
+    ns1:surname "Rooney" .
+
+<https://www.nfa.cz/resource/claim/f95edcb2-b1aa-47cf-b091-580b44e92546> ns2:qualifier <https://www.nfa.cz/resource/qualifier/6c354b85-6e05-46b5-b159-7a9aeec77bbf>,
+        <https://www.nfa.cz/resource/qualifier/7e0bb4b2-b540-4b1c-bcc4-2b7ab347f1d4> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/1c7357aa-ad7d-4512-8507-05e9558736be> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/4f88ff78-b7df-433b-aad4-deb3dc07c3fb> .
+
+<https://www.nfa.cz/resource/claim/fa7bcf55-dca9-49c5-b885-663337f57ba6> ns2:qualifier <https://www.nfa.cz/resource/qualifier/76318007-bce4-435e-b56a-465a49b0cf35>,
+        <https://www.nfa.cz/resource/qualifier/97b56037-f86c-437a-8da9-42b4a3ef08ca> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/9272ce7a-361f-490d-948b-5f0a7779dcac> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/da2961b4-ef1c-4299-aa86-1644c00f8fba> .
+
+<https://www.nfa.cz/resource/claim/fdd4da79-4eca-47a4-a461-cf0e44783172> ns2:qualifier <https://www.nfa.cz/resource/qualifier/707edd21-2fc9-4bf1-9f27-cc8f1b6bc1d6> ;
+    ns2:reference <https://www.nfa.cz/resource/reference/e0a0a1b8-8eb2-4bcf-96d4-11d02414d775> ;
+    ns1:agent_cast <https://www.nfa.cz/resource/agent/5c70f110-9f8c-4d98-906f-d4b05f486a19> .
+
+<https://www.nfa.cz/resource/claim/ff3aee4e-78a8-4893-9bda-6b301d442b55> ns1:instance_of <https://www.fiafnet.org/ontology/item/agent> .
+
+<https://www.nfa.cz/resource/claim/ffb94133-24c1-4224-a8aa-12295ec50280> ns2:reference <https://www.nfa.cz/resource/reference/e7cba0fc-1c48-47d7-964a-e3058b7de004> ;
+    ns1:surname "Palmer" .
+
+<https://www.nfa.cz/resource/qualifier/06800081-234e-49d7-86fc-ebad4ef49629> ns1:agent_type <https://www.nfa.cz/ontology/item/scenar> .
+
+<https://www.nfa.cz/resource/qualifier/09a6f809-74e5-4bec-96cd-8974eba488d2> ns1:agent_type <https://www.nfa.cz/ontology/item/scenar> .
+
+<https://www.nfa.cz/resource/qualifier/113b1882-afe0-40a4-8780-e7a5253ee739> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/15e927f1-35f9-4bb6-b4fd-b6680a78ae15> ns1:role <https://www.nfa.cz/resource/role/4c33d3ec-039e-4ce0-b52c-e1fb06da5309> .
+
+<https://www.nfa.cz/resource/qualifier/1a39d06c-0c4e-48f8-914b-ed99e13a27ac> ns1:role <https://www.nfa.cz/resource/role/d52a507c-3b29-498a-b94f-4062b1f7aa07> .
+
+<https://www.nfa.cz/resource/qualifier/212b6cd3-13e6-4d2d-8a78-8d764b318607> ns1:agent_type <https://www.nfa.cz/ontology/item/kamera> .
+
+<https://www.nfa.cz/resource/qualifier/2dd7fa9d-2d98-49a6-9e00-d25f883a7d44> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/3639241c-744f-4983-8483-3a4d62a15357> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/3984b9c5-e3e9-4dcb-ba65-9d8e779a62de> ns1:agent_type <https://www.nfa.cz/ontology/item/rezie> .
+
+<https://www.nfa.cz/resource/qualifier/3c78a229-135d-4d52-af23-8bd707884483> ns1:role <https://www.nfa.cz/resource/role/85c1f276-31ae-470b-ae0e-425dc1170cea> .
+
+<https://www.nfa.cz/resource/qualifier/3d4518f6-9f99-4249-8d1f-ef0cf788571c> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/3e57282b-d608-4ed1-a3c5-424887e693f8> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/4dc73556-00ec-4d92-bdf8-77ba105e35fc> ns1:role <https://www.nfa.cz/resource/role/475b30b2-558f-4f54-9555-569ab4f7b629> .
+
+<https://www.nfa.cz/resource/qualifier/4ec6d557-c8a1-4747-973a-61d0f2db631d> ns1:title_type <https://www.nfa.cz/ontology/item/nazev_origin> .
+
+<https://www.nfa.cz/resource/qualifier/53af45bb-be88-4fab-9c21-1f4329ba97fd> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/58ea94aa-d86e-4a95-97d2-9e63999e5297> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/59c37dd1-79da-4e51-b3ff-6f9833baeb8d> ns1:role <https://www.nfa.cz/resource/role/7c38e8e9-78cd-4825-93ae-723ec6977dbb> .
+
+<https://www.nfa.cz/resource/qualifier/5a1db6d4-99e3-4aaa-b52d-cc037af32421> ns1:role <https://www.nfa.cz/resource/role/ad8133f0-442d-44bf-aa38-40ab402a8df6> .
+
+<https://www.nfa.cz/resource/qualifier/5e990570-4539-47a4-9837-8ee0fc0bc3f1> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/62d5515c-b1b2-44d2-a093-978a5882fa36> ns1:role <https://www.nfa.cz/resource/role/20b8029e-7ef7-45b3-856b-fcbe3c1b7ebe> .
+
+<https://www.nfa.cz/resource/qualifier/6c354b85-6e05-46b5-b159-7a9aeec77bbf> ns1:role <https://www.nfa.cz/resource/role/58f2317e-34f0-4db2-93b4-e1bf3f61405d> .
+
+<https://www.nfa.cz/resource/qualifier/6fe4d1f3-0173-4816-bfdd-198b40e0cb7d> ns1:role <https://www.nfa.cz/resource/role/c43962c8-4b53-47ff-abc1-7da55aaf2b46> .
+
+<https://www.nfa.cz/resource/qualifier/6fff138d-aa8b-4b58-b9e7-4b156aee69ee> ns1:agent_type <https://www.nfa.cz/ontology/item/rezie> .
+
+<https://www.nfa.cz/resource/qualifier/707edd21-2fc9-4bf1-9f27-cc8f1b6bc1d6> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/7439678b-b7c4-4f42-852c-0f21bda255c9> ns1:role <https://www.nfa.cz/resource/role/73b36210-725b-4b79-93bf-1fa242d24768> .
+
+<https://www.nfa.cz/resource/qualifier/76318007-bce4-435e-b56a-465a49b0cf35> ns1:role <https://www.nfa.cz/resource/role/0f1d5fcb-a23e-4fdd-a2cc-020efee1b0d9> .
+
+<https://www.nfa.cz/resource/qualifier/7e0bb4b2-b540-4b1c-bcc4-2b7ab347f1d4> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/7fb1c913-3c13-4b2b-8fc7-3fe718429245> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/82b8a3c4-4245-41b3-8e85-f5d3f92d0188> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/84baa322-eeb4-4e83-a20e-3d677b3cfec7> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/8be683cc-b77c-426b-b198-7e6d50d39dfc> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/91c5f4e2-e662-4424-928b-6c93ab9ff31f> ns1:agent_type <https://www.nfa.cz/ontology/item/scenar> .
+
+<https://www.nfa.cz/resource/qualifier/9334946a-b3ef-4bf1-b080-f8e3f08e5c2f> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/97b56037-f86c-437a-8da9-42b4a3ef08ca> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/9bf47e52-73ba-4f3c-ab67-febddf1bced0> ns1:role <https://www.nfa.cz/resource/role/7c7897a4-2fc1-46b6-8050-e233b3f1777b> .
+
+<https://www.nfa.cz/resource/qualifier/a0a7e908-0e81-4aa6-9208-e88e10a17fd2> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/a19454c8-fc08-4f41-b89e-7195e5ef1327> ns1:role <https://www.nfa.cz/resource/role/eb423ac0-7cca-4aa0-8088-f092e4d02824> .
+
+<https://www.nfa.cz/resource/qualifier/a6b9f157-56c2-45a2-9fde-afe2cea0a7d8> ns1:role <https://www.nfa.cz/resource/role/c990dd5a-7cf5-45c4-b91b-1d945ebd1271> .
+
+<https://www.nfa.cz/resource/qualifier/a80f9561-98d4-49be-ae6b-c8ecb27e354e> ns1:role <https://www.nfa.cz/resource/role/68d79b1d-d1ed-42d0-a503-6a1917abff52> .
+
+<https://www.nfa.cz/resource/qualifier/b66dab75-227b-4816-a11d-ccc245fe7635> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/b6d351d9-e2ad-419b-b2dc-27908634f937> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/c34f28af-cbe6-4874-9e23-497d4f702a21> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/c87d63c7-a9d4-430a-8f3e-16d2abbf48a2> ns1:agent_type <https://www.nfa.cz/ontology/item/rezie> .
+
+<https://www.nfa.cz/resource/qualifier/d7b9274e-256b-41c4-8d5e-e02b0b78124d> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/deb0dce6-7acc-4e18-a816-606dc6719664> ns1:role <https://www.nfa.cz/resource/role/e03ec9cd-d5ea-4c07-8ec5-6a8ffe5d4a52> .
+
+<https://www.nfa.cz/resource/qualifier/ee801df5-3c19-4c40-b81f-fbc6d2e2ff55> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/f3bbf60b-8ab0-496c-b0b5-1448f35f0f95> ns1:agent_type <https://www.nfa.cz/ontology/item/hudba> .
+
+<https://www.nfa.cz/resource/qualifier/f4303fc9-2d91-4ebd-82c4-6009340ed408> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/qualifier/f8dddc7e-1894-44d5-991c-c886944b95e6> ns1:agent_type <https://www.nfa.cz/ontology/item/obsazeni> .
+
+<https://www.nfa.cz/resource/reference/00169922-d51f-4e65-93d8-3812d3cc3d17> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/0179496c-72e4-40eb-af09-75953d9c3e7f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/057f7216-acc7-46be-8a88-52e562c6a605> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/07c2244a-149a-483b-89f8-e3695ba7b3e9> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/0ea0b417-13b8-48da-912e-4a655e844122> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/121f0da9-04f8-458c-a929-d83a2f395cbd> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/14702fb5-3b52-4109-a3c9-6775e8b98cc1> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/15065812-0d11-4c90-b499-2d3faece91c0> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/16a8a414-b09b-47af-b420-9b36b8387c47> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/1bcb9c8a-fa4e-49a4-9b93-6831e5348700> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/1c7357aa-ad7d-4512-8507-05e9558736be> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/1f50b392-4863-4223-bdcc-9e82dec797f5> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/1fadbd42-1a1e-496f-b88f-1d5d3a3c8608> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/202a693e-9357-49a2-9498-d2dc21c2c18f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/2563bbcc-98aa-4c2a-9d10-381e1b98ce61> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/27323022-7113-47c1-a75f-a40f2843f911> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/2e007549-d95f-43e1-8e59-1d87fbe8c18d> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/31af7399-6033-4eb8-b272-7a9a95d6685c> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/32803250-6d74-4f04-ab32-41ca6f50a2a7> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/336e9ce4-039c-493b-978f-4fb51a15f972> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/35c6fa5f-02f5-4e49-9b5d-72d438a22685> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/35cf6180-fd86-4f11-b5c8-efff63599c49> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/42677772-1eed-4cbb-99d0-e839292b7e36> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/452176d0-bfb7-4f02-b888-f2860e4c56db> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/4717572b-a7c5-4e71-a40e-a124fb2dff90> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/4981358e-8e83-486d-bbc1-a2aac1ab0b56> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/4c64e797-9ac1-4dc9-adac-95c9fa646ab8> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/4edae991-0f75-4372-8939-76d5cd8b13c9> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/504bc0a6-ef21-42be-9012-a858f03324c7> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/554f301d-0653-4d9e-89c8-dcab038200b5> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/557e7282-00de-4b5f-8ba9-6b6c011e7e1f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/55ac0d68-738e-4b42-a73a-282fc81f90e7> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/56511c8e-77be-4959-b89c-a4b1fb911d17> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/5ed3e719-e789-4b6d-b99a-efd8b284f0b8> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/6598024b-578c-496c-b88b-62d4f11d8f17> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/66d676c3-d253-4124-8fa8-a472c989ec51> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/674727a7-e3c1-4966-b0c9-059ed0445a3b> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/677f600d-212f-49ab-aa14-afcc2ff41fb8> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/6872e795-bbbd-446e-9f4f-7b9b46b89a28> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/6d8528fc-00a5-47e0-844d-f442204d763f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/71f9633f-d2cb-4a60-bea5-23be6231145f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/7865643f-256f-4b95-ad86-a7d1d481b95f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/82dd547c-a6ff-4467-a043-6bf4436d4d7a> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/83ad4d93-5ee1-4b06-8d04-10f902a3db6b> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/869b9b0a-a3a9-4783-b86f-ea9b956ddcde> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/891dd5e2-572a-49f2-b49a-80810af8631a> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/8dbc1e09-c5a1-47a8-935c-828deb90abe6> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/8ef98388-9102-4d85-b962-a4760bf61af1> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9049e580-f171-4dbd-9a40-8c9c841fa3eb> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9130747a-04ac-4dab-9092-f55ad0d86935> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9191be48-7153-417f-b627-7a57cf17288b> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/92043de1-586b-4eeb-9708-b235cc40ffd7> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9272ce7a-361f-490d-948b-5f0a7779dcac> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/948ece89-2c8f-4933-807a-7a926fb4d0ca> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/95646512-6d8f-4c12-9c22-e45452d49575> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/97028d1b-04b9-4cbb-bdbd-68d63a10fc8b> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/98da6681-8210-4b5e-ad72-5d725f9c200a> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9a7b17e3-3009-4075-bb0e-eb0e1c86642f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9bd890b8-a841-4f63-9254-c6d6831a36d4> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9c0ccdbe-0812-46b0-ab2e-e800974e4117> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9d12e70c-f660-4093-96c9-ab74e8c3481c> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9d8b88f7-8ed8-4f4d-ac09-1857a56f1580> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/9f4c9501-e1a6-4e99-891b-f551290c0d3a> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/a0ddd39d-429a-4cd5-a7a7-81aed61b0121> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/a720f4bb-1172-464e-8fd9-ee7ba6e376bc> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/a75bd5d0-5354-41a4-9000-20ac75f01fdc> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/ac3d6109-ef1c-4096-8ca6-5e0969522c7d> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/b1b0ceb6-ac75-49ec-990c-949aa9c09c13> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/b31c609d-7eb0-4117-80e0-2ee09017035d> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/b3a1362e-a44a-4025-af8d-75eef2c7412f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/b80f2e4e-0880-4891-b1f8-56350b44bf91> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/b9635a42-935d-43e7-b201-150c68c7119b> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/c06a50cf-812e-43ef-9c4a-d47aaeb5c2d1> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/ca6776dc-2011-4dbb-abb3-46603ba32263> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/caaa7405-ac85-4aad-975f-f34dfc83d2e0> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/cabd5fc7-7b3d-43de-9c98-c1d6bfa4f753> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/cbb0e4ad-4412-427d-b7f7-a043a53ba0f4> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/d0fd8315-d59a-4d05-b399-b56c096e86cf> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/d5d0b2b5-d67c-4ce4-808c-68c6dff3ebdf> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e0a0a1b8-8eb2-4bcf-96d4-11d02414d775> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e0d677f6-614d-4f53-9bd5-9c468bcce99d> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e365aa2a-4462-4221-8939-5f9765a1261f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e45f27f0-b926-4038-b189-9cdbff23e9b7> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e74eb206-6567-49e9-a8f5-8efe9ebe4dc2> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e7cba0fc-1c48-47d7-964a-e3058b7de004> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e7de43ea-2900-4480-a574-fb0447ff65c5> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e85121bc-ebb3-4374-9b48-891da47019ce> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/e89cb29a-9f41-4a62-9030-654bc444fb1f> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/ebbf5f6c-b51f-4421-a467-10c5f72109c6> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/ebe176c3-723c-41fe-897e-d5dd79536542> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/ec8283d7-134f-4243-8c6f-100196d58a2e> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/f161aed9-52f2-4d26-b469-03d1e7bf9519> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/f213284e-3398-4989-8e1a-b035d827c76e> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/f4060d03-e9e3-484e-9a58-9559929f56a1> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/f45cb5e9-1cc0-4ed3-b928-bc0f7d921731> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/f7ec794b-6be3-431c-bbff-0823f74dc376> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/reference/fd3e1a8a-c638-4f87-9822-8b988b5e667a> ns1:contributed_by <https://www.nfa.cz/ontology/item/nfa> .
+
+<https://www.nfa.cz/resource/role/0f1d5fcb-a23e-4fdd-a2cc-020efee1b0d9> rdfs:label "kavárník"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/1a137c5e-4d32-44e0-9f10-f269eabea553> .
+
+<https://www.nfa.cz/resource/role/20b8029e-7ef7-45b3-856b-fcbe3c1b7ebe> rdfs:label "žnec Mac"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/bc70a775-c465-40f2-accb-7f11e706e494> .
+
+<https://www.nfa.cz/resource/role/475b30b2-558f-4f54-9555-569ab4f7b629> rdfs:label "Lemův otec"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/9f91fe60-350f-49a5-8139-32fb3314672c> .
+
+<https://www.nfa.cz/resource/role/4c33d3ec-039e-4ce0-b52c-e1fb06da5309> rdfs:label "žnec Matey"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/a4d476ec-614d-4946-a66f-bb5c151cd142> .
+
+<https://www.nfa.cz/resource/role/58f2317e-34f0-4db2-93b4-e1bf3f61405d> rdfs:label "žnec"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/1c4c24e5-9a57-404b-b26b-0e0b0f8daee7> .
+
+<https://www.nfa.cz/resource/role/68d79b1d-d1ed-42d0-a503-6a1917abff52> rdfs:label "Butch"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/e4e83d82-f096-4fdc-b406-086425c79308> .
+
+<https://www.nfa.cz/resource/role/73b36210-725b-4b79-93bf-1fa242d24768> rdfs:label "taxikář"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/d4afebf0-90eb-49c7-ac88-3efbc263cdcb> .
+
+<https://www.nfa.cz/resource/role/7c38e8e9-78cd-4825-93ae-723ec6977dbb> rdfs:label "Lem Tustine"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/ca5652a6-2e07-4bc5-af64-e79eae54c995> .
+
+<https://www.nfa.cz/resource/role/7c7897a4-2fc1-46b6-8050-e233b3f1777b> rdfs:label "Kate"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/530c17ed-f678-422f-8ac0-e3203f95764c> .
+
+<https://www.nfa.cz/resource/role/85c1f276-31ae-470b-ae0e-425dc1170cea> rdfs:label "Mary Tustineová"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/268b804e-7a8a-44f7-b89f-e0833e4fe507> .
+
+<https://www.nfa.cz/resource/role/ad8133f0-442d-44bf-aa38-40ab402a8df6> rdfs:label "Lemova matka"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/0d95b7f6-5f89-4abc-a8d8-eb3b32dd94d6> .
+
+<https://www.nfa.cz/resource/role/c43962c8-4b53-47ff-abc1-7da55aaf2b46> rdfs:label "žnec"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/a68c6d39-6c7a-4ff7-bba8-9752b09b5a47> .
+
+<https://www.nfa.cz/resource/role/c990dd5a-7cf5-45c4-b91b-1d945ebd1271> rdfs:label "předák"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/037ce3df-4117-4217-8607-82e2e3d1861a> .
+
+<https://www.nfa.cz/resource/role/d52a507c-3b29-498a-b94f-4062b1f7aa07> rdfs:label "dívka ve vlaku"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/dae0b7ee-a356-4ec1-a4fe-58ce33ca7560> .
+
+<https://www.nfa.cz/resource/role/e03ec9cd-d5ea-4c07-8ec5-6a8ffe5d4a52> rdfs:label "hladový žnec"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/3ec78bee-5109-4950-857f-2bdc86eb042a> .
+
+<https://www.nfa.cz/resource/role/eb423ac0-7cca-4aa0-8088-f092e4d02824> rdfs:label "žnec"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/e54f56dd-8404-4e42-aa05-a3165a6f3a0c> .
+
+<https://www.nfa.cz/ontology/item/rezie> rdfs:label "rezie"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/f9027c6d-b3fd-4709-9b27-944e6938ed8c> .
+
+<https://www.nfa.cz/ontology/item/scenar> rdfs:label "scenar"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/bf0c0228-4a52-492d-bda0-bb90f28bb094> .
+
+<https://www.nfa.cz/ontology/item/obsazeni> rdfs:label "obsazení"@cs ;
+    ns2:claim <https://www.nfa.cz/resource/claim/bc5e29f1-e650-4d5a-859e-2cec5409ffc4> .
+
+<https://www.nfa.cz/ontology/item/nfa> rdfs:label "Národní filmový archiv"@cs,
+        "National Film Archive"@en ;
+    ns2:claim <https://www.nfa.cz/resource/claim/163c3962-5acd-4506-9ca7-def1eebe9c28> .
+

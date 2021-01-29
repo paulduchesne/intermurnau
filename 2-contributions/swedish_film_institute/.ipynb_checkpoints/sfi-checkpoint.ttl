@@ -1,0 +1,331 @@
+@prefix ns1: <https://www.fiafnet.org/ontology/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.filminstitutet.se/work/11806> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Nosferatu : Eine Symphonie des Grauens" ;
+    ns1:sfi_id "11806" ;
+    ns1:title <https://www.filminstitutet.se/title/2e34219c-4096-4bcc-9835-041f64354615>,
+        <https://www.filminstitutet.se/title/af41b310-f1e7-4842-b41b-e9d7df9425ec>,
+        <https://www.filminstitutet.se/title/dba88613-0db6-4465-8a0d-248cdcac5c86>,
+        <https://www.filminstitutet.se/title/fc548307-43bb-4e5b-bc2f-4e5db8b41f8d> .
+
+<https://www.filminstitutet.se/work/17859> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Sunrise - A Song of Two Humans" ;
+    ns1:sfi_id "17859" ;
+    ns1:title <https://www.filminstitutet.se/title/61e9b46d-17cb-46da-ab6b-59a14cd3c202>,
+        <https://www.filminstitutet.se/title/749ab247-728e-4baf-9864-3af36cee0e02>,
+        <https://www.filminstitutet.se/title/efa7b17e-2a68-4475-9032-08fefe647f21> .
+
+<https://www.filminstitutet.se/work/19678> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "The City Girl" ;
+    ns1:sfi_id "19678" ;
+    ns1:title <https://www.filminstitutet.se/title/cb6de6cb-8cc7-4eb0-a9cc-3dfe961f39d6>,
+        <https://www.filminstitutet.se/title/d30cb5b5-2c3b-439e-93cb-ef6929c1bf8d> .
+
+<https://www.filminstitutet.se/work/25850> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Die Finanzen des Grossherzogs" ;
+    ns1:sfi_id "25850" ;
+    ns1:title <https://www.filminstitutet.se/title/3b52ab7a-8173-4e29-bfb2-e5d6c8763dcd>,
+        <https://www.filminstitutet.se/title/8f884acf-74ee-4150-af23-18cf41372b92> .
+
+<https://www.filminstitutet.se/work/26009> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Four Devils" ;
+    ns1:sfi_id "26009" ;
+    ns1:title <https://www.filminstitutet.se/title/350d32a0-2128-402e-adc5-feb5be7df343>,
+        <https://www.filminstitutet.se/title/cc234727-c38d-4808-a940-6b5c9a88aa5c> .
+
+<https://www.filminstitutet.se/work/27500> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Der Januskopf" ;
+    ns1:sfi_id "27500" ;
+    ns1:title <https://www.filminstitutet.se/title/4eb5f5d6-56aa-4b25-b307-f3dd1fddd894>,
+        <https://www.filminstitutet.se/title/b74370bf-b756-4ca4-aa27-d9089b2004ad> .
+
+<https://www.filminstitutet.se/work/30183> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Der brennende Acker" ;
+    ns1:sfi_id "30183" ;
+    ns1:title <https://www.filminstitutet.se/title/7dca2197-6e57-47e0-85e1-1806db1b39f1>,
+        <https://www.filminstitutet.se/title/c149c6c1-b0ee-4ed2-97cc-386f51ec31f4>,
+        <https://www.filminstitutet.se/title/f0cbc0fd-a48a-4a10-940a-9547b212f8bf> .
+
+<https://www.filminstitutet.se/work/30184> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Phantom" ;
+    ns1:sfi_id "30184" ;
+    ns1:title <https://www.filminstitutet.se/title/3c5d3b71-7277-4a4f-858d-af87c94a5801>,
+        <https://www.filminstitutet.se/title/5664f93d-5445-445c-a7cd-477c4ad18fb6> .
+
+<https://www.filminstitutet.se/work/30185> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Die Austreibung : Die Macht der zweiten Frau" ;
+    ns1:sfi_id "30185" ;
+    ns1:title <https://www.filminstitutet.se/title/5d7b2981-c7cc-45fc-9f49-116c6af5584a> .
+
+<https://www.filminstitutet.se/work/30186> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Der Knabe in Blau" ;
+    ns1:sfi_id "30186" ;
+    ns1:title <https://www.filminstitutet.se/title/38560212-c224-482b-96c4-fcb21c7147b0>,
+        <https://www.filminstitutet.se/title/7e960927-f933-4fa8-bd77-0ce68b777508> .
+
+<https://www.filminstitutet.se/work/30187> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Sehnsucht" ;
+    ns1:sfi_id "30187" ;
+    ns1:title <https://www.filminstitutet.se/title/3b693432-50a8-44c8-a947-46625672cd5d>,
+        <https://www.filminstitutet.se/title/78218746-0a75-42b4-91b3-305f22451218> .
+
+<https://www.filminstitutet.se/work/31600> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Tabu : A Story of the South Seas" ;
+    ns1:sfi_id "31600" ;
+    ns1:title <https://www.filminstitutet.se/title/2f863eae-6d1b-4769-903c-95e62cd5dfed>,
+        <https://www.filminstitutet.se/title/4a309d13-896e-46c0-ab32-663fd5802c1b>,
+        <https://www.filminstitutet.se/title/8f1ae8b0-c5be-431e-8b62-4f35660e1310>,
+        <https://www.filminstitutet.se/title/b925402b-7691-4d73-b249-2fb9b4fb8f41>,
+        <https://www.filminstitutet.se/title/f2405187-7b23-49e1-993f-eda3c87c61f9> .
+
+<https://www.filminstitutet.se/work/50369> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Marizza" ;
+    ns1:sfi_id "50369" ;
+    ns1:title <https://www.filminstitutet.se/title/a0eb0a20-bdec-45d3-b9ba-4a13ef9c4524> .
+
+<https://www.filminstitutet.se/work/52981> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Schloss Vogelöd : Eine Enthüllung eines Geheimnisses" ;
+    ns1:sfi_id "52981" ;
+    ns1:title <https://www.filminstitutet.se/title/8280f231-3989-4eb6-828f-c7b69a6789e3>,
+        <https://www.filminstitutet.se/title/dae1bdb6-c669-4406-adea-ec6c00582107> .
+
+<https://www.filminstitutet.se/work/625469> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Der Bucklige und die Tänzerin" ;
+    ns1:sfi_id "625469" ;
+    ns1:title <https://www.filminstitutet.se/title/97ad08ad-106f-49c2-8924-88ac41907e2c> .
+
+<https://www.filminstitutet.se/work/9190> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Faust : Eine deutsche Volkssage" ;
+    ns1:sfi_id "9190" ;
+    ns1:title <https://www.filminstitutet.se/title/1306dc92-0ad2-4a9f-852b-4039665341c3>,
+        <https://www.filminstitutet.se/title/4c78cf79-c29f-4ad0-97fa-674e35c829ad> .
+
+<https://www.filminstitutet.se/work/91955> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Der Gang in die Nacht" ;
+    ns1:sfi_id "91955" ;
+    ns1:title <https://www.filminstitutet.se/title/176af362-26b0-4f4e-9ba6-c16b14e71aeb>,
+        <https://www.filminstitutet.se/title/7e729ef2-c186-4b68-bc54-95dccf8178c8> .
+
+<https://www.filminstitutet.se/work/9215> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Der letzte Mann" ;
+    ns1:sfi_id "9215" ;
+    ns1:title <https://www.filminstitutet.se/title/3b914806-3f3d-4968-bb50-1f07b6662786>,
+        <https://www.filminstitutet.se/title/e22f41dc-8f71-4b6b-95ed-09619b155968> .
+
+<https://www.filminstitutet.se/work/9256> a <https://www.fiafnet.org/ontology/item/work> ;
+    rdfs:label "Tartüff" ;
+    ns1:sfi_id "9256" ;
+    ns1:title <https://www.filminstitutet.se/title/1b96dfa9-86e1-4e49-a5e5-3374f139e902>,
+        <https://www.filminstitutet.se/title/5bfc02a7-47ad-42aa-84df-df0c61c89116>,
+        <https://www.filminstitutet.se/title/da786ef4-5980-41b1-9a9d-7734e0b5f04e>,
+        <https://www.filminstitutet.se/title/f3f25103-1a74-4056-a2cf-0b2a820be250> .
+
+<https://www.filminstitutet.se/title/1306dc92-0ad2-4a9f-852b-4039665341c3> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Faust" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/176af362-26b0-4f4e-9ba6-c16b14e71aeb> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der Gang in die Nacht" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/1b96dfa9-86e1-4e49-a5e5-3374f139e902> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Tartüff" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/2e34219c-4096-4bcc-9835-041f64354615> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Nosferatu" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/TV-titel_i_Sverige> .
+
+<https://www.filminstitutet.se/title/2f863eae-6d1b-4769-903c-95e62cd5dfed> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Tabu: A Story of the South Seas" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/350d32a0-2128-402e-adc5-feb5be7df343> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Four Devils" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/38560212-c224-482b-96c4-fcb21c7147b0> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der Todessmaragd" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/3b52ab7a-8173-4e29-bfb2-e5d6c8763dcd> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Storhertigens finanser" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/3b693432-50a8-44c8-a947-46625672cd5d> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Sista dansen" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/3b914806-3f3d-4968-bb50-1f07b6662786> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Sista skrattet ..." ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/3c5d3b71-7277-4a4f-858d-af87c94a5801> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Fantom" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/4a309d13-896e-46c0-ab32-663fd5802c1b> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Tabu : A Story of the South Seas" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/4c78cf79-c29f-4ad0-97fa-674e35c829ad> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Faust : Eine deutsche Volkssage" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/4eb5f5d6-56aa-4b25-b307-f3dd1fddd894> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der Januskopf" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/5664f93d-5445-445c-a7cd-477c4ad18fb6> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Phantom" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/5bfc02a7-47ad-42aa-84df-df0c61c89116> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der Scheinheilige" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Distributionstitel> .
+
+<https://www.filminstitutet.se/title/5d7b2981-c7cc-45fc-9f49-116c6af5584a> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Die Austreibung : Die Macht der zweiten Frau" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/61e9b46d-17cb-46da-ab6b-59a14cd3c202> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Soluppgång" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/749ab247-728e-4baf-9864-3af36cee0e02> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Sunrise" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Dvd-titel_i_Sverige> .
+
+<https://www.filminstitutet.se/title/78218746-0a75-42b4-91b3-305f22451218> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Sehnsucht" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/7dca2197-6e57-47e0-85e1-1806db1b39f1> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Den brinnande åkern" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/7e729ef2-c186-4b68-bc54-95dccf8178c8> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Mellan plikt och kärlek" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/7e960927-f933-4fa8-bd77-0ce68b777508> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der Knabe in Blau" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/8280f231-3989-4eb6-828f-c7b69a6789e3> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Schloß Vogelöd" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/8f1ae8b0-c5be-431e-8b62-4f35660e1310> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Kärlekens ö" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/8f884acf-74ee-4150-af23-18cf41372b92> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Die Finanzen des Grossherzogs" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/97ad08ad-106f-49c2-8924-88ac41907e2c> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der Bucklige und die Tänzerin" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/a0eb0a20-bdec-45d3-b9ba-4a13ef9c4524> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Marizza" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/af41b310-f1e7-4842-b41b-e9d7df9425ec> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Die zwölfte Stunde : Eine Nacht des Grausen" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Nypremiär-titel> .
+
+<https://www.filminstitutet.se/title/b74370bf-b756-4ca4-aa27-d9089b2004ad> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Dr. Jekyll och Mr. Hyde" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/b925402b-7691-4d73-b249-2fb9b4fb8f41> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Tabu" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/c149c6c1-b0ee-4ed2-97cc-386f51ec31f4> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der brennende Acker" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/cb6de6cb-8cc7-4eb0-a9cc-3dfe961f39d6> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "The City Girl" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/cc234727-c38d-4808-a940-6b5c9a88aa5c> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "De 4 djävlarna" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/d30cb5b5-2c3b-439e-93cb-ef6929c1bf8d> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Storstadsflickan" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/da786ef4-5980-41b1-9a9d-7734e0b5f04e> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Herr Tartüff" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/dae1bdb6-c669-4406-adea-ec6c00582107> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Schloss Vogelöd : Eine Enthüllung eines Geheimnisses" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/dba88613-0db6-4465-8a0d-248cdcac5c86> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Nosferatu : Eine Symphonie des Grauens" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/e22f41dc-8f71-4b6b-95ed-09619b155968> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Der letzte Mann" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/efa7b17e-2a68-4475-9032-08fefe647f21> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Sunrise - A Song of Two Humans" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Originaltitel> .
+
+<https://www.filminstitutet.se/title/f0cbc0fd-a48a-4a10-940a-9547b212f8bf> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "En äregirigs öden" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/f2405187-7b23-49e1-993f-eda3c87c61f9> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Söderhavets Tarzan" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Alternativtitel> .
+
+<https://www.filminstitutet.se/title/f3f25103-1a74-4056-a2cf-0b2a820be250> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Hycklaren : Ett filmspel i fem akter" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Svensk_premiärtitel> .
+
+<https://www.filminstitutet.se/title/fc548307-43bb-4e5b-bc2f-4e5db8b41f8d> a <https://www.fiafnet.org/ontology/item/title> ;
+    ns1:title_string "Nosferatu" ;
+    ns1:title_type <https://www.filminstitutet.se/title_type/Videotitel_i_Sverige> .
+
+<https://www.filminstitutet.se/title_type/Distributionstitel> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Distribution title"@en,
+        "Distributionstitel"@se .
+
+<https://www.filminstitutet.se/title_type/Dvd-titel_i_Sverige> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Title for Swedish DVD release"@en,
+        "Dvd-titel i Sverige"@se .
+
+<https://www.filminstitutet.se/title_type/Nypremiär-titel> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Re-release title"@en,
+        "Nypremiär-titel"@se .
+
+<https://www.filminstitutet.se/title_type/TV-titel_i_Sverige> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Title for Swedish TV release"@en,
+        "TV-titel i Sverige"@se .
+
+<https://www.filminstitutet.se/title_type/Videotitel_i_Sverige> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Title for Swedish Video release"@en,
+        "Videotitel i Sverige"@se .
+
+<https://www.filminstitutet.se/title_type/Alternativtitel> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Alternative title"@en,
+        "Alternativtitel"@se .
+
+<https://www.filminstitutet.se/title_type/Svensk_premiärtitel> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Swedish release title"@en,
+        "Svensk premiärtitel"@se .
+
+<https://www.filminstitutet.se/title_type/Originaltitel> a <https://www.fiafnet.org/ontology/item/title_type> ;
+    rdfs:label "Original title"@en,
+        "Originaltitel"@se .
+
